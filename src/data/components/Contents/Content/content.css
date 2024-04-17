@@ -1,3 +1,7 @@
+body{
+    background-image: url("https://r2.easyimg.io/08luol8yu/background.png");
+}
+
 .container{
     width: 100%;
     height: 100%;
@@ -9,11 +13,18 @@
     padding: 7px;
     opacity: 0.9;
     margin-top: 1rem;
+    margin-right: 15px;
+    margin-bottom: 10px;
+    margin-left: 15px;
 }
 
 img{
-    width: 443px;
+    width: 438px;
     height: 250px;
+}
+
+a{
+    text-decoration: none;
 }
 
 .hvr-grow {
@@ -42,4 +53,12 @@ img{
     color: white;
     -webkit-text-stroke-width: 1px;
     -webkit-text-stroke-color: #000;
+}
+
+.name{
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-family:'Times New Roman', Times, serif ;
+    text-align: center;
 }

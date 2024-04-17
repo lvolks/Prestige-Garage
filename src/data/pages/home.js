@@ -1,4 +1,4 @@
-import Content from '../components/Content/index.js';
+import Content from '../components/Contents/Content/index.js';
 import Header from '../components/Header/index.js';
 import Footer from '../components/Footer/index.js';
 

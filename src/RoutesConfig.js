@@ -1,17 +1,17 @@
 import { Routes, Route } from "react-router-dom";
 import Home from "D:/Coding/React/prestige-garage/src/data/pages/home";
-import Ferrari from "D:/Coding/React/prestige-garage/src/data/pages/ferrari";
-import Porsche from "D:/Coding/React/prestige-garage/src/data/pages/porsche";
-import Lamborghini from "D:/Coding/React/prestige-garage/src/data/pages/lamborghini";
-import Mercedes from "D:/Coding/React/prestige-garage/src/data/pages/mercedes";
-import Gtr from "D:/Coding/React/prestige-garage/src/data/pages/gtr";
-import Mclaren from "D:/Coding/React/prestige-garage/src/data/pages/mclaren";
-import Toyota from "D:/Coding/React/prestige-garage/src/data/pages/toyota";
-import Hennessey from "D:/Coding/React/prestige-garage/src/data/pages/hennessey";
-import Audi from "D:/Coding/React/prestige-garage/src/data/pages/audi";
-import Corvette from "D:/Coding/React/prestige-garage/src/data/pages/corvette";
-import Bugatti from "D:/Coding/React/prestige-garage/src/data/pages/bugatti";
-import Koenigsegg from "D:/Coding/React/prestige-garage/src/data/pages/koenigsegg";
+import Ferrari from "D:/Coding/React/prestige-garage/src/data/pages/cars/ferrari";
+import Porsche from "D:/Coding/React/prestige-garage/src/data/pages/cars/porsche";
+import Lamborghini from "D:/Coding/React/prestige-garage/src/data/pages/cars/lamborghini";
+import Mercedes from "D:/Coding/React/prestige-garage/src/data/pages/cars/mercedes";
+import Gtr from "D:/Coding/React/prestige-garage/src/data/pages/cars/gtr";
+import Mclaren from "D:/Coding/React/prestige-garage/src/data/pages/cars/mclaren";
+import Toyota from "D:/Coding/React/prestige-garage/src/data/pages/cars/toyota";
+import Bmw from "D:/Coding/React/prestige-garage/src/data/pages/cars/bmw";
+import Audi from "D:/Coding/React/prestige-garage/src/data/pages/cars/audi";
+import Corvette from "D:/Coding/React/prestige-garage/src/data/pages/cars/corvette";
+import Bugatti from "D:/Coding/React/prestige-garage/src/data/pages/cars/bugatti";
+import Koenigsegg from "D:/Coding/React/prestige-garage/src/data/pages/cars/koenigsegg";
 import About from "D:/Coding/React/prestige-garage/src/data/pages/about";
 import Details from "D:/Coding/React/prestige-garage/src/data/pages/details";
 
@@ -31,7 +31,7 @@ export default function RoutesConfig() {
       <Route path="/audi" element={<Audi />} />
       <Route path="/gtr" element={<Gtr />} />
       <Route path="/corvette" element={<Corvette />} />
-      <Route path="/hennessey" element={<Hennessey />} />
+      <Route path="/bmw" element={<Bmw />} />
       <Route path="/about" element={<About />} />
       <Route path="detalhes/:codigo" element={<Details />} />
       <Route path="*" element={<h1> 404 - Página Não Encontrada!</h1>} />

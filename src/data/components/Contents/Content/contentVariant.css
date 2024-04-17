@@ -1,0 +1,52 @@
+.ev{
+    margin-left: 30px;
+}
+
+.carIMG{
+    margin-left: 55px;
+    display: flexbox;
+}
+
+img{
+    height: 500px;
+    width: 800px;
+}
+
+.description{
+    padding-left: 50px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 45px;
+}
+
+.information{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 55px;
+    width: 800px;
+    height: 366px;
+}
+
+.information-second{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 55px;
+    width: 800px;
+    height: 366px;
+}
+
+.data{
+    text-wrap: wrap;
+}
+
+.container, .kmhp{
+    display: flex;
+}
+
+.init{
+    display: flexbox;
+}
+
+.information{
+    display: flexbox;
+}

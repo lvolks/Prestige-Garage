@@ -11,15 +11,15 @@ export default function Content() {
         </div>
         <div class="companys">
           <div className="info">
-            <Link to='/audi/rs7'>
+            <Link to='/porsche/gt3rs'>
               <img className="img" class="hvr-grow" src={logoP} />
               <h1 className="name">Porsche 911 GT3 RS</h1>
             </Link>
           </div>
           <div className="info">
-            <Link>
+            <Link to='/porsche/carreraGT'>
               <img className="img" class="hvr-grow" src={logoP} />
-              <h1 className="name">Porsche 911 GT3 RS</h1>
+              <h1 className="name">Porsche Carrera GT</h1>
             </Link>
           </div>
           <div className="info">

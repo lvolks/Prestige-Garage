@@ -1,12 +1,12 @@
 import Header from '../../../../components/Header/index'
 import Footer from '../../../../components/Footer/index'
-import ContentRS7 from '../../../../components/Contents/ContentAudi/index-RS7'
+import ContentVeyron from '../../../../components/Contents/ContentBugatti/index-VEYRON'
 
-export default function Rs7() {
+export default function Veyron() {
     return (
         <div>
             <Header />
-            <ContentRS7 />
+            <ContentVeyron />
             <Footer />
         </div>
     )

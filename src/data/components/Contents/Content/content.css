@@ -21,6 +21,7 @@ body{
 img{
     width: 438px;
     height: 250px;
+    border-radius: 45px;
 }
 
 a{

@@ -1,12 +1,12 @@
 import Header from '../../../../components/Header/index'
 import Footer from '../../../../components/Footer/index'
-import ContentRS7 from '../../../../components/Contents/ContentAudi/index-RS7'
+import ContentSenna from '../../../../components/Contents/ContentMclaren/index-SENNA'
 
-export default function Rs7() {
+export default function Senna() {
     return (
         <div>
             <Header />
-            <ContentRS7 />
+            <ContentSenna />
             <Footer />
         </div>
     )

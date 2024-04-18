@@ -1,12 +1,12 @@
 import Header from '../../../../components/Header/index'
 import Footer from '../../../../components/Footer/index'
-import ContentRS7 from '../../../../components/Contents/ContentAudi/index-RS7'
+import ContentRegera from '../../../../components/Contents/ContentKoenigsegg/index-REGERA'
 
-export default function Rs7() {
+export default function Regera() {
     return (
         <div>
             <Header />
-            <ContentRS7 />
+            <ContentRegera />
             <Footer />
         </div>
     )

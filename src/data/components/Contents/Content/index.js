@@ -11,7 +11,7 @@ import logoC from "../../../images/logo-corvette.png"
 import logoBMW from "../../../images/logo-bmw.png"
 import logoB from "../../../images/logo-bugatti.png"
 import logoK from "../../../images/logo-koenigsegg.png"
-import logoT from "../../../images/logo-toyota.png"
+import logoAs from "../../../images/logo-astonmartin.png"
 
 export default function Content() {
 
@@ -58,8 +58,8 @@ export default function Content() {
           <Link to='/corvette'>
           <img className="img" class="hvr-grow" src={logoC} />
           </Link>
-          <Link to='/toyota'>
-          <img className="img" class="hvr-grow" src={logoT} />
+          <Link to='/astonmartin'>
+          <img className="img" class="hvr-grow" src={logoAs} />
           </Link>
         </div>
       </div>

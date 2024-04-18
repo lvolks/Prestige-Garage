@@ -1,12 +1,12 @@
 import Header from '../../../../components/Header/index'
 import Footer from '../../../../components/Footer/index'
-import ContentRS7 from '../../../../components/Contents/ContentAudi/index-RS7'
+import ContentBolide from '../../../../components/Contents/ContentBugatti/index-BOLIDE'
 
-export default function Rs7() {
+export default function Bolide() {
     return (
         <div>
             <Header />
-            <ContentRS7 />
+            <ContentBolide />
             <Footer />
         </div>
     )

@@ -1,12 +1,12 @@
 import Header from '../../../../components/Header/index'
 import Footer from '../../../../components/Footer/index'
-import ContentRS7 from '../../../../components/Contents/ContentAudi/index-RS7'
+import ContentJesko from '../../../../components/Contents/ContentKoenigsegg/index-JESKO'
 
-export default function Rs7() {
+export default function Jesko() {
     return (
         <div>
             <Header />
-            <ContentRS7 />
+            <ContentJesko />
             <Footer />
         </div>
     )

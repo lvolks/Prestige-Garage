@@ -1,12 +1,12 @@
 import Header from '../../../../components/Header/index'
 import Footer from '../../../../components/Footer/index'
-import ContentRS7 from '../../../../components/Contents/ContentAudi/index-RS7'
+import ContentS570 from '../../../../components/Contents/ContentMclaren/index-570S'
 
-export default function Rs7() {
+export default function S570() {
     return (
         <div>
             <Header />
-            <ContentRS7 />
+            <ContentS570 />
             <Footer />
         </div>
     )

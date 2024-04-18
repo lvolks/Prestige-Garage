@@ -1,12 +1,12 @@
 import Header from '../../../../components/Header/index'
 import Footer from '../../../../components/Footer/index'
-import ContentRS7 from '../../../../components/Contents/ContentAudi/index-RS7'
+import ContentSls from '../../../../components/Contents/ContentMercedes/index-SLSAMG'
 
-export default function Rs7() {
+export default function Slsamg() {
     return (
         <div>
             <Header />
-            <ContentRS7 />
+            <ContentSls />
             <Footer />
         </div>
     )

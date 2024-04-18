@@ -7,7 +7,7 @@
     display: flexbox;
 }
 
-img{
+.image{
     height: 500px;
     width: 800px;
 }
@@ -33,14 +33,21 @@ img{
     margin-left: 55px;
     width: 800px;
     height: 366px;
+    margin-top: 120px;
 }
 
 .data{
     text-wrap: wrap;
 }
 
-.container, .kmhp{
+.kmhp{
     display: flex;
+}
+
+.section{
+    display: flex;
+    margin-bottom: 15px;
+    margin-top: 10px;
 }
 
 .init{

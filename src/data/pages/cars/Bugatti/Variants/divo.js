@@ -1,12 +1,12 @@
 import Header from '../../../../components/Header/index'
 import Footer from '../../../../components/Footer/index'
-import ContentRS7 from '../../../../components/Contents/ContentAudi/index-RS7'
+import ContentDivo from '../../../../components/Contents/ContentBugatti/index-DIVO'
 
-export default function Rs7() {
+export default function Divo() {
     return (
         <div>
             <Header />
-            <ContentRS7 />
+            <ContentDivo />
             <Footer />
         </div>
     )

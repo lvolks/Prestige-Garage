@@ -1,12 +1,12 @@
 import Header from '../../../components/Header/index.js';
 import Footer from '../../../components/Footer/index.js';
-import ContentToyota from '../../../components/Contents/ContentToyota/index.js';
+import ContentAstonmartin from '../../../components/Contents/ContentAstonmartin/index.js';
 
-export default function Toyota() {
+export default function Astonmartin() {
     return (
         <div>
             <Header />
-            <ContentToyota />
+            <ContentAstonmartin />
             <Footer />
         </div>
     )

@@ -1,12 +1,12 @@
 import Header from '../../../../components/Header/index'
 import Footer from '../../../../components/Footer/index'
-import ContentRS7 from '../../../../components/Contents/ContentAudi/index-RS7'
+import ContentAmgone from '../../../../components/Contents/ContentMercedes/index-AMGONE'
 
-export default function Rs7() {
+export default function Amgone() {
     return (
         <div>
             <Header />
-            <ContentRS7 />
+            <ContentAmgone />
             <Footer />
         </div>
     )

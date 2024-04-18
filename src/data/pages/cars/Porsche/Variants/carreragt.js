@@ -1,12 +1,12 @@
 import Header from '../../../../components/Header/index'
 import Footer from '../../../../components/Footer/index'
-import ContentRS7 from '../../../../components/Contents/ContentAudi/index-RS7'
+import ContentCarreragt from '../../../../components/Contents/ContentPorsche/index-CARRERAGT'
 
-export default function Rs7() {
+export default function Carreragt() {
     return (
         <div>
             <Header />
-            <ContentRS7 />
+            <ContentCarreragt />
             <Footer />
         </div>
     )

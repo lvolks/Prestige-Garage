@@ -1,12 +1,12 @@
 import Header from '../../../../components/Header/index'
 import Footer from '../../../../components/Footer/index'
-import ContentRS7 from '../../../../components/Contents/ContentAudi/index-RS7'
+import ContentR35 from '../../../../components/Contents/ContentGtr/index-R35'
 
-export default function Rs7() {
+export default function R35() {
     return (
         <div>
             <Header />
-            <ContentRS7 />
+            <ContentR35 />
             <Footer />
         </div>
     )

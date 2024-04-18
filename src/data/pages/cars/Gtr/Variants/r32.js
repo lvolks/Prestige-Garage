@@ -1,12 +1,12 @@
 import Header from '../../../../components/Header/index'
 import Footer from '../../../../components/Footer/index'
-import ContentRS7 from '../../../../components/Contents/ContentAudi/index-RS7'
+import ContentR32 from '../../../../components/Contents/ContentGtr/index-R32'
 
-export default function Rs7() {
+export default function R32() {
     return (
         <div>
             <Header />
-            <ContentRS7 />
+            <ContentR32 />
             <Footer />
         </div>
     )

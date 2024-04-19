@@ -10,30 +10,38 @@
 .image{
     height: 500px;
     width: 800px;
+    border-radius: 45px;
+    filter: drop-shadow(10px 6px 6px #fff);
 }
 
 .description{
     padding-left: 50px;
     color: white;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: cursive;
     font-size: 45px;
+    text-shadow: 
+    0 0 7px #fff;
 }
 
 .information{
     color: white;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: cursive;
     margin-left: 55px;
     width: 800px;
     height: 366px;
+    text-shadow: 
+    0 0 7px #fff;
 }
 
 .information-second{
     color: white;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: cursive;
     margin-left: 55px;
     width: 800px;
     height: 366px;
     margin-top: 120px;
+    text-shadow: 
+    0 0 7px #fff;
 }
 
 .data{

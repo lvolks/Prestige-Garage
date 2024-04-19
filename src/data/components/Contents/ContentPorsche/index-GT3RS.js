@@ -1,5 +1,9 @@
-import img from '../../../images/logo-audi.png'
 import "../Content/contentVariant.css";
+import img1 from "../../../images/imagesPorsche/gt3rs/1.png"
+import img2 from "../../../images/imagesPorsche/gt3rs/2.png"
+import img3 from "../../../images/imagesPorsche/gt3rs/3.png"
+import img4 from "../../../images/imagesPorsche/gt3rs/4.png"
+import img5 from "../../../images/imagesPorsche/gt3rs/5.png"
 
 export default function ContentGT3RS() {
     return (
@@ -13,7 +17,7 @@ export default function ContentGT3RS() {
         <div className='section'>
 
         <div className="carIMG">
-            <img className='image' src={img}></img>
+            <img className='image' src={img1}></img>
         </div>
 
         <div className='init'>
@@ -21,15 +25,15 @@ export default function ContentGT3RS() {
         <div className='kmhp'>
 
         <div>
-            <h1 className='description'>0-100km/h in 3,2s</h1>
+            <h1 className='description'>0-100km/h em 3,2s</h1>
         </div>
 
         <div>
-            <h1 className='description'>HP(Horse Power): 525hp</h1>
+            <h1 className='description'>CV: 525cv</h1>
         </div>
 
         <div>
-            <h1 className='description'>Max Velocity: 296km/h</h1>
+            <h1 className='description'>Velocidade máxima: 296km/h</h1>
         </div>
 
         </div>
@@ -53,7 +57,7 @@ export default function ContentGT3RS() {
         </div>
 
         <div className="carIMG">
-            <img className='image' src={img}></img>
+            <img className='image' src={img2}></img>
         </div>
 
         </div>
@@ -61,7 +65,7 @@ export default function ContentGT3RS() {
         <div className='section'>
 
         <div className="carIMG">
-            <img className='image' src={img}></img>
+            <img className='image' src={img3}></img>
         </div>
 
         <div className='init'>
@@ -85,7 +89,7 @@ export default function ContentGT3RS() {
         </div>
 
         <div className="carIMG">
-            <img className='image' src={img}></img>
+            <img className='image' src={img4}></img>
         </div>
 
         </div>
@@ -93,7 +97,7 @@ export default function ContentGT3RS() {
         <div className='section'>
 
         <div className="carIMG">
-            <img className='image' src={img}></img>
+            <img className='image' src={img5}></img>
         </div>
 
         <div className='init'>

@@ -1,6 +1,6 @@
 import "../Content/content.css";
 import { Link } from 'react-router-dom';
-import logoC from "../../../images/logo-corvette.png"
+import logoC from "../../../images/imagesCorvette/logo-corvette.png"
 
 export default function Content() {
 
@@ -11,27 +11,27 @@ export default function Content() {
         </div>
         <div class="companys">
           <div className="info">
-            <Link to='/audi/rs7'>
+            <Link to='/corvette/c8'>
               <img className="img" class="hvr-grow" src={logoC} />
               <h1 className="name">Corvette C8</h1>
             </Link>
           </div>
           <div className="info">
-            <Link>
+            <Link to='/corvette/victory'>
               <img className="img" class="hvr-grow" src={logoC} />
-              <h1 className="name">Corvette C8</h1>
+              <h1 className="name">Corvette Victory</h1>
             </Link>
           </div>
           <div className="info">
-            <Link>
+            <Link to='/corvette/z06'>
               <img className="img" class="hvr-grow" src={logoC} />
-              <h1 className="name">Corvette C8</h1>
+              <h1 className="name">Corvette Z06</h1>
             </Link>
           </div>
           <div className="info">
-            <Link>
+            <Link to='/corvette/zr1'>
               <img className="img" class="hvr-grow" src={logoC} />
-              <h1 className="name">Corvette C8</h1>
+              <h1 className="name">Corvette ZR1</h1>
             </Link>
           </div>
         </div>        

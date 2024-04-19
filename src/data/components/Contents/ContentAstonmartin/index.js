@@ -1,6 +1,6 @@
 import "../Content/content.css";
 import { Link } from 'react-router-dom';
-import logoT from "../../../images/logo-astonmartin.png"
+import logoT from "../../../images/imagesAstonmartin/logo-astonmartin.png"
 
 export default function Content() {
 
@@ -11,27 +11,27 @@ export default function Content() {
         </div>
         <div class="companys">
           <div className="info">
-            <Link to='/audi/rs7'>
+            <Link to='/astonmartin/vulcan'>
               <img className="img" class="hvr-grow" src={logoT} />
-              <h1 className="name">Supra MK5</h1>
+              <h1 className="name">Aston Martin Vulcan</h1>
             </Link>
           </div>
           <div className="info">
-            <Link>
+            <Link to='/astonmartin/vantage'>
               <img className="img" class="hvr-grow" src={logoT} />
-              <h1 className="name">Supra MK5</h1>
+              <h1 className="name">Aston Martin Vantage</h1>
             </Link>
           </div>
           <div className="info">
-            <Link>
+            <Link to='/astonmartin/valkyrie' >
               <img className="img" class="hvr-grow" src={logoT} />
-              <h1 className="name">Supra MK5</h1>
+              <h1 className="name">Aston Martin Valkyrie</h1>
             </Link>
           </div>
           <div className="info">
-            <Link>
+            <Link to='/astonmartin/valour'>
               <img className="img" class="hvr-grow" src={logoT} />
-              <h1 className="name">Supra MK5</h1>
+              <h1 className="name">Aston Martin Valour</h1>
             </Link>
           </div>
         </div>        

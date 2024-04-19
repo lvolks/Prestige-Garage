@@ -16,8 +16,12 @@ header{
     color: white;
     font-family: 'Times New Roman', Times, serif;
     font-size: 76px;
-    -webkit-text-stroke-width: 1px;
-    -webkit-text-stroke-color: #000;
+    text-shadow: 
+    0 0 7px #fff,
+    0 0 10px #fff,
+    0 0 42px #fff,
+    0 0 77px #fff,
+    0 0 100px #fff;
 }
 
 
@@ -29,6 +33,12 @@ ul a{
     justify-content: space-between;
     color: white;
     padding: 65px;
+    text-shadow: 
+    0 0 7px #fff,
+    0 0 10px #fff,
+    0 0 42px #fff,
+    0 0 77px #fff,
+    0 0 100px #fff;
 }
 
 ul a:hover{

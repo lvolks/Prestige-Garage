@@ -11,7 +11,7 @@ export default function Footer() {
             <footer>
             <div className="all">
                 <div className="copy">
-                    <h1>A project made by Lucas Volkweis</h1>
+                    <h1>Um projeto feito por Lucas Volkweis</h1>
                 </div>
                 <div>
                     <Link to='https://github.com/lvolks' target="_blank">

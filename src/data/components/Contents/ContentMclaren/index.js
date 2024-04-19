@@ -1,6 +1,6 @@
 import "../Content/content.css";
 import { Link } from 'react-router-dom';
-import logoM from "../../../images/logo-mclaren.png"
+import logoM from "../../../images/imagesMclaren/logo-mclaren.png"
 
 export default function Content() {
 
@@ -11,27 +11,27 @@ export default function Content() {
         </div>
         <div class="companys">
           <div className="info">
-            <Link to='/audi/rs7'>
+            <Link to='/mclaren/570s'>
+              <img className="img" class="hvr-grow" src={logoM} />
+              <h1 className="name">MClaren 570s</h1>
+            </Link>
+          </div>
+          <div className="info">
+            <Link to='/mclaren/720s'>
               <img className="img" class="hvr-grow" src={logoM} />
               <h1 className="name">MClaren 720s</h1>
             </Link>
           </div>
           <div className="info">
-            <Link>
+            <Link to='/mclaren/p1'>
               <img className="img" class="hvr-grow" src={logoM} />
-              <h1 className="name">MClaren 720s</h1>
+              <h1 className="name">MClaren P1</h1>
             </Link>
           </div>
           <div className="info">
-            <Link>
+            <Link to='/mclaren/senna'>
               <img className="img" class="hvr-grow" src={logoM} />
-              <h1 className="name">MClaren 720s</h1>
-            </Link>
-          </div>
-          <div className="info">
-            <Link>
-              <img className="img" class="hvr-grow" src={logoM} />
-              <h1 className="name">MClaren 720s</h1>
+              <h1 className="name">MClaren Senna</h1>
             </Link>
           </div>
         </div>        

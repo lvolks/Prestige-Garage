@@ -39,7 +39,7 @@ export default function ContentI8() {
         </div>
 
         <div className='information'>
-            <h1 class='data' contenteditable="true">A Porsche 911 GT3 RS é uma máquina de alto desempenho que combina o legado lendário da marca com tecnologia de ponta e engenharia de precisão. Esta versão extrema da icônica série 911 é projetada para entregar uma experiência de condução visceral e emocionante, tanto nas ruas quanto nas pistas.</h1>
+            <h1 class='data'>O BMW i8 é um ícone da engenharia futurista, representando a visão da BMW para o futuro da mobilidade sustentável e de alto desempenho. Lançado em 2014 como parte da submarca BMW i, o i8 incorpora tecnologias inovadoras e design progressivo para oferecer uma experiência de condução única. Com sua combinação de estilo arrojado, eficiência energética e desempenho emocionante, o i8 é uma declaração audaciosa de excelência automotiva.</h1>
         </div>
 
         </div>
@@ -51,7 +51,7 @@ export default function ContentI8() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Sob o capô, a GT3 RS é impulsionada por um motor de seis cilindros opostos (boxer) naturalmente aspirado, capaz de gerar uma potência impressionante. O som desse motor é uma sinfonia para os entusiastas automotivos, enquanto sua potência oferece uma aceleração intensa e uma experiência de condução verdadeiramente emocionante.</h1>
+            <h1 class='data'>O BMW i8 apresenta um design revolucionário que combina elegância futurista com funcionalidade aerodinâmica avançada. Suas linhas fluidas, portas de asa de gaivota e elementos aerodinâmicos ativos não apenas impressionam visualmente, mas também otimizam o fluxo de ar para melhorar a eficiência e o desempenho. O i8 é uma obra-prima de design automotivo que redefine os padrões de beleza e funcionalidade.</h1>
         </div>
 
         </div>
@@ -71,7 +71,7 @@ export default function ContentI8() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">A Porsche 911 GT3 RS não é apenas sobre potência bruta; também é afinada para oferecer um desempenho excepcional em curvas. Sua suspensão esportiva, direção precisa e aerodinâmica refinada trabalham em harmonia para garantir uma aderência excepcional e uma resposta rápida em qualquer tipo de curva.</h1>
+            <h1 class='data'>Equipado com um sistema híbrido plug-in, o BMW i8 oferece uma combinação única de potência e eficiência. Seu motor elétrico fornece tração nas rodas dianteiras, enquanto um motor a gasolina de três cilindros impulsiona as rodas traseiras, oferecendo uma tração nas quatro rodas inteligente e dinâmica. Esta configuração proporciona uma potência combinada de mais de 360 cavalos, permitindo uma aceleração impressionante e uma experiência de condução emocionante.</h1>
         </div>
 
         </div>
@@ -83,7 +83,7 @@ export default function ContentI8() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Além disso, a Porsche 911 GT3 RS ostenta uma aparência agressiva e distinta, com elementos aerodinâmicos proeminentes e detalhes exclusivos que não só contribuem para a sua performance, mas também a distinguem como uma obra-prima da engenharia automotiva.</h1>
+            <h1 class='data'>No interior, o BMW i8 oferece um ambiente futurista e luxuoso, onde a tecnologia se funde com o conforto. Materiais sustentáveis, como couro sem cromo e plásticos reciclados, são utilizados para criar um espaço moderno e ecologicamente consciente. Recursos avançados, como o sistema de infotainment BMW iDrive e os assistentes de condução semiautônoma, garantem uma experiência de condução intuitiva e conectada.</h1>
         </div>
 
         </div>
@@ -103,7 +103,7 @@ export default function ContentI8() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Em resumo, a Porsche 911 GT3 RS é a personificação da paixão da Porsche pela excelência técnica e pela emoção pura da condução esportiva. É uma máquina feita para desafiar limites e elevar os padrões do que um carro esportivo pode alcançar.</h1>
+            <h1 class='data'>O BMW i8 é muito mais do que apenas um carro esportivo; é um pioneiro na mobilidade sustentável e na tecnologia de propulsão alternativa. Sua combinação de desempenho eletrizante e emissões zero exemplifica o compromisso da BMW com a inovação e a responsabilidade ambiental. Como um dos primeiros supercarros híbridos plug-in do mundo, o i8 continua a inspirar entusiastas e motoristas a adotarem um estilo de vida mais sustentável e consciente.</h1>
         </div>
 
         </div>

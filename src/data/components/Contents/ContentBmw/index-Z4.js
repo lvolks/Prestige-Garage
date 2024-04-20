@@ -39,7 +39,7 @@ export default function ContentZ4() {
         </div>
 
         <div className='information'>
-            <h1 class='data' contenteditable="true">A Porsche 911 GT3 RS é uma máquina de alto desempenho que combina o legado lendário da marca com tecnologia de ponta e engenharia de precisão. Esta versão extrema da icônica série 911 é projetada para entregar uma experiência de condução visceral e emocionante, tanto nas ruas quanto nas pistas.</h1>
+            <h1 class='data'>O BMW Z4 é um roadster de alto desempenho que personifica a emoção e a liberdade de dirigir ao ar livre. Desde o seu lançamento, o Z4 tem sido reconhecido por sua combinação única de estilo esportivo, dinâmica de condução emocionante e tecnologia de ponta. Como um verdadeiro roadster de dois lugares, o Z4 oferece uma experiência de condução envolvente e emocionante que é difícil de igualar.</h1>
         </div>
 
         </div>
@@ -51,7 +51,7 @@ export default function ContentZ4() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Sob o capô, a GT3 RS é impulsionada por um motor de seis cilindros opostos (boxer) naturalmente aspirado, capaz de gerar uma potência impressionante. O som desse motor é uma sinfonia para os entusiastas automotivos, enquanto sua potência oferece uma aceleração intensa e uma experiência de condução verdadeiramente emocionante.</h1>
+            <h1 class='data'>O BMW Z4 apresenta um design dinâmico e elegante que atrai olhares por onde passa. Com suas linhas fluidas, proporções equilibradas e detalhes distintivos, o Z4 transmite uma sensação de movimento e agilidade mesmo quando está parado. Detalhes como a grade dianteira em forma de rim, os faróis LED e as saídas de ar laterais reforçam a estética esportiva do Z4, enquanto o teto rígido retrátil adiciona versatilidade e praticidade ao design.</h1>
         </div>
 
         </div>
@@ -71,7 +71,7 @@ export default function ContentZ4() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">A Porsche 911 GT3 RS não é apenas sobre potência bruta; também é afinada para oferecer um desempenho excepcional em curvas. Sua suspensão esportiva, direção precisa e aerodinâmica refinada trabalham em harmonia para garantir uma aderência excepcional e uma resposta rápida em qualquer tipo de curva.</h1>
+            <h1 class='data'>Equipado com uma variedade de opções de motores, incluindo versões de quatro e seis cilindros, o BMW Z4 oferece desempenho eletrizante em todas as configurações. Com potências que variam de aproximadamente 200 a mais de 380 cavalos de potência, o Z4 é capaz de proporcionar acelerações emocionantes e uma dirigibilidade ágil. Sua suspensão esportiva e direção precisa garantem uma resposta rápida e uma experiência de condução envolvente em estradas sinuosas e retas.</h1>
         </div>
 
         </div>
@@ -83,7 +83,7 @@ export default function ContentZ4() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Além disso, a Porsche 911 GT3 RS ostenta uma aparência agressiva e distinta, com elementos aerodinâmicos proeminentes e detalhes exclusivos que não só contribuem para a sua performance, mas também a distinguem como uma obra-prima da engenharia automotiva.</h1>
+            <h1 class='data'>No interior, o BMW Z4 oferece um ambiente luxuoso e tecnologicamente avançado, onde cada detalhe foi cuidadosamente elaborado para proporcionar conforto e conveniência. Materiais de alta qualidade, como couro premium e acabamentos em alumínio, criam uma atmosfera de sofisticação e requinte. Recursos como o sistema de infoentretenimento iDrive, o painel de instrumentos digital e os assistentes de condução avançados garantem uma experiência de condução conectada e indulgente.</h1>
         </div>
 
         </div>
@@ -103,7 +103,7 @@ export default function ContentZ4() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Em resumo, a Porsche 911 GT3 RS é a personificação da paixão da Porsche pela excelência técnica e pela emoção pura da condução esportiva. É uma máquina feita para desafiar limites e elevar os padrões do que um carro esportivo pode alcançar.</h1>
+            <h1 class='data'>O BMW Z4 é mais do que apenas um carro; é um símbolo de liberdade automotiva e prazer de dirigir. Seja você explorando estradas de montanha sinuosas ou navegando pelas ruas da cidade em um dia ensolarado, o Z4 oferece uma experiência de condução emocionante e gratificante. Sua combinação de design emocionante, desempenho eletrizante e luxo refinado continua a cativar entusiastas de carros esportivos em todo o mundo.</h1>
         </div>
 
         </div>

@@ -39,7 +39,7 @@ export default function ContentCla() {
         </div>
 
         <div className='information'>
-            <h1 class='data' contenteditable="true">A Porsche 911 GT3 RS é uma máquina de alto desempenho que combina o legado lendário da marca com tecnologia de ponta e engenharia de precisão. Esta versão extrema da icônica série 911 é projetada para entregar uma experiência de condução visceral e emocionante, tanto nas ruas quanto nas pistas.</h1>
+            <h1 class='data'>O Mercedes-AMG CLA 45 é um sedan compacto que oferece um desempenho excepcional em um pacote elegante e refinado. Equipado com um motor turbocharged de 2.0 litros, este carro entrega uma potência impressionante de mais de 380 cavalos. Com sua transmissão de dupla embreagem de oito velocidades e tração nas quatro rodas, o CLA 45 oferece uma aceleração rápida e uma experiência de condução emocionante, seja na cidade ou na estrada aberta.</h1>
         </div>
 
         </div>
@@ -51,7 +51,7 @@ export default function ContentCla() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Sob o capô, a GT3 RS é impulsionada por um motor de seis cilindros opostos (boxer) naturalmente aspirado, capaz de gerar uma potência impressionante. O som desse motor é uma sinfonia para os entusiastas automotivos, enquanto sua potência oferece uma aceleração intensa e uma experiência de condução verdadeiramente emocionante.</h1>
+            <h1 class='data'>O design do Mercedes-AMG CLA 45 combina elegância com agressividade, com linhas aerodinâmicas e detalhes esportivos que destacam seu caráter de alto desempenho. A grade dianteira com lâminas verticais cromadas, as entradas de ar proeminentes e as saias laterais pronunciadas conferem ao CLA 45 uma presença imponente na estrada. As rodas de liga leve exclusivas e o sistema de escapamento duplo enfatizam ainda mais seu pedigree esportivo.</h1>
         </div>
 
         </div>
@@ -71,7 +71,7 @@ export default function ContentCla() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">A Porsche 911 GT3 RS não é apenas sobre potência bruta; também é afinada para oferecer um desempenho excepcional em curvas. Sua suspensão esportiva, direção precisa e aerodinâmica refinada trabalham em harmonia para garantir uma aderência excepcional e uma resposta rápida em qualquer tipo de curva.</h1>
+            <h1 class='data'>Por dentro, o Mercedes-AMG CLA 45 oferece um ambiente de luxo e tecnologia avançada. Os materiais de alta qualidade e os acabamentos refinados criam uma atmosfera elegante e acolhedora, enquanto os assentos esportivos oferecem suporte confortável durante viagens de alta performance. O sistema de infoentretenimento MBUX mantém o motorista conectado e informado, enquanto os sistemas de assistência ao motorista garantem uma experiência de condução segura e tranquila.</h1>
         </div>
 
         </div>
@@ -83,7 +83,7 @@ export default function ContentCla() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Além disso, a Porsche 911 GT3 RS ostenta uma aparência agressiva e distinta, com elementos aerodinâmicos proeminentes e detalhes exclusivos que não só contribuem para a sua performance, mas também a distinguem como uma obra-prima da engenharia automotiva.</h1>
+            <h1 class='data'>Como parte da família AMG da Mercedes-Benz, o CLA 45 herda um legado de performance e paixão pela condução. Cada aspecto deste sedan é projetado e afinado pelos engenheiros da AMG para oferecer uma experiência de condução emocionante e envolvente. Desde seu lançamento, o CLA 45 tem sido elogiado por sua combinação de desempenho de classe mundial, estilo dinâmico e artesanato meticuloso.</h1>
         </div>
 
         </div>
@@ -103,7 +103,7 @@ export default function ContentCla() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Em resumo, a Porsche 911 GT3 RS é a personificação da paixão da Porsche pela excelência técnica e pela emoção pura da condução esportiva. É uma máquina feita para desafiar limites e elevar os padrões do que um carro esportivo pode alcançar.</h1>
+            <h1 class='data'>Com sua combinação de desempenho esportivo e praticidade diária, o Mercedes-AMG CLA 45 é uma escolha ideal para entusiastas que buscam um sedan compacto com emoção adicional. Sua acessibilidade em comparação com outros modelos AMG o torna uma opção atraente para aqueles que desejam experimentar a emoção de dirigir um carro esportivo de alto desempenho. O CLA 45 é uma declaração de estilo e uma expressão de paixão pela condução, destinado a inspirar admiração em cada curva da estrada.</h1>
         </div>
 
         </div>

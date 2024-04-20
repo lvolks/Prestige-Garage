@@ -39,7 +39,7 @@ export default function ContentAgera() {
         </div>
 
         <div className='information'>
-            <h1 class='data' contenteditable="true">A Porsche 911 GT3 RS é uma máquina de alto desempenho que combina o legado lendário da marca com tecnologia de ponta e engenharia de precisão. Esta versão extrema da icônica série 911 é projetada para entregar uma experiência de condução visceral e emocionante, tanto nas ruas quanto nas pistas.</h1>
+            <h1 class='data'>O Koenigsegg Agera é um supercarro que redefine os limites do desempenho automotivo. Equipado com um motor V8 twin-turbo de 5.0 litros, o Agera produz uma potência incrível de mais de 1.000 cavalos. Combinado com uma transmissão de dupla embreagem de sete velocidades e tecnologia avançada de tração nas quatro rodas, este carro oferece uma aceleração impressionante e uma velocidade máxima de mais de 400 km/h, proporcionando uma boa experiência de condução.</h1>
         </div>
 
         </div>
@@ -51,7 +51,7 @@ export default function ContentAgera() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Sob o capô, a GT3 RS é impulsionada por um motor de seis cilindros opostos (boxer) naturalmente aspirado, capaz de gerar uma potência impressionante. O som desse motor é uma sinfonia para os entusiastas automotivos, enquanto sua potência oferece uma aceleração intensa e uma experiência de condução verdadeiramente emocionante.</h1>
+            <h1 class='data'>O design do Koenigsegg Agera é uma expressão de pura aerodinâmica e elegância. Cada linha e curva do carro são meticulosamente projetadas para otimizar o fluxo de ar e maximizar a eficiência aerodinâmica. Os detalhes exclusivos, como as portas de borboleta e o sistema de escapamento central, dão ao Agera uma aparência única e distinta que o diferencia de qualquer outro supercarro na estrada.</h1>
         </div>
 
         </div>
@@ -71,7 +71,7 @@ export default function ContentAgera() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">A Porsche 911 GT3 RS não é apenas sobre potência bruta; também é afinada para oferecer um desempenho excepcional em curvas. Sua suspensão esportiva, direção precisa e aerodinâmica refinada trabalham em harmonia para garantir uma aderência excepcional e uma resposta rápida em qualquer tipo de curva.</h1>
+            <h1 class='data'>Por dentro, o Koenigsegg Agera oferece um ambiente de luxo e tecnologia de ponta. O cockpit é projetado para oferecer o máximo de conforto e funcionalidade, com materiais de alta qualidade e acabamentos personalizados. Os assentos esportivos proporcionam suporte durante viagens de alta velocidade, enquanto o sistema de infotainment mantém os ocupantes conectados e entretidos.</h1>
         </div>
 
         </div>
@@ -83,7 +83,7 @@ export default function ContentAgera() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Além disso, a Porsche 911 GT3 RS ostenta uma aparência agressiva e distinta, com elementos aerodinâmicos proeminentes e detalhes exclusivos que não só contribuem para a sua performance, mas também a distinguem como uma obra-prima da engenharia automotiva.</h1>
+            <h1 class='data'>Como resultado de anos de pesquisa e desenvolvimento meticuloso, o Koenigsegg Agera é um testemunho da dedicação da marca à excelência automotiva. Cada componente do carro é projetado e fabricado com precisão suíça, utilizando materiais de alta qualidade e tecnologia de ponta. Desde sua estrutura de fibra de carbono até seu sistema de suspensão ativa, cada aspecto do Agera é cuidadosamente projetado para oferecer desempenho excepcional em todas as condições de condução.</h1>
         </div>
 
         </div>
@@ -103,7 +103,7 @@ export default function ContentAgera() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Em resumo, a Porsche 911 GT3 RS é a personificação da paixão da Porsche pela excelência técnica e pela emoção pura da condução esportiva. É uma máquina feita para desafiar limites e elevar os padrões do que um carro esportivo pode alcançar.</h1>
+            <h1 class='data'>Com sua produção altamente limitada e seu status como um dos supercarros mais exclusivos do mundo, o Koenigsegg Agera é mais do que apenas um veículo; é um símbolo de status e prestígio. Sua exclusividade e desempenho incomparável garantem que ele permaneça como um objeto de desejo para colecionadores e entusiastas de automóveis em todo o mundo, mantendo seu valor ao longo do tempo e continuando a inspirar admiração por muitas gerações. O Agera é uma verdadeira obra-prima da engenharia automotiva.</h1>
         </div>
 
         </div>

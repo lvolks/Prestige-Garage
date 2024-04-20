@@ -32,9 +32,9 @@ export default function Content() {
             </Link>
           </div>
           <div className="info">
-            <Link to='/astonmartin/valour'>
+            <Link to='/astonmartin/db11'>
               <img className="img" class="hvr-grow" src={icon4} />
-              <h1 className="name">Aston Martin Valour</h1>
+              <h1 className="name">Aston Martin DB11</h1>
             </Link>
           </div>
         </div>        

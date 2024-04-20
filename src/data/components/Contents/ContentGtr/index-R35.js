@@ -39,7 +39,7 @@ export default function ContentR35() {
         </div>
 
         <div className='information'>
-            <h1 class='data' contenteditable="true">A Porsche 911 GT3 RS é uma máquina de alto desempenho que combina o legado lendário da marca com tecnologia de ponta e engenharia de precisão. Esta versão extrema da icônica série 911 é projetada para entregar uma experiência de condução visceral e emocionante, tanto nas ruas quanto nas pistas.</h1>
+            <h1 class='data'>O Nissan GT-R R35 é a personificação da evolução contínua do lendário Skyline GT-R, mantendo a tradição de desempenho excepcional e inovação tecnológica. Lançado em 2007, o R35 estabeleceu novos padrões de desempenho e precisão, elevando o patamar dos supercarros japoneses. Equipado com um motor V6 twin-turbo de 3.8 litros, o GT-R oferece uma combinação impressionante de potência, velocidade e manuseio que o tornam uma força a ser reconhecida nas estradas e nas pistas.</h1>
         </div>
 
         </div>
@@ -51,7 +51,7 @@ export default function ContentR35() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Sob o capô, a GT3 RS é impulsionada por um motor de seis cilindros opostos (boxer) naturalmente aspirado, capaz de gerar uma potência impressionante. O som desse motor é uma sinfonia para os entusiastas automotivos, enquanto sua potência oferece uma aceleração intensa e uma experiência de condução verdadeiramente emocionante.</h1>
+            <h1 class='data'>O Nissan GT-R R35 apresenta um design agressivo e aerodinâmico que é ao mesmo tempo funcional e impressionante. Cada linha e curva do carro são projetadas para otimizar a eficiência aerodinâmica, proporcionando downforce e estabilidade em altas velocidades. Detalhes como a grade dianteira em forma de "V", as entradas de ar laterais e o spoiler traseiro integrado não apenas aumentam o desempenho, mas também destacam a presença dominante do GT-R na estrada.</h1>
         </div>
 
         </div>
@@ -71,7 +71,7 @@ export default function ContentR35() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">A Porsche 911 GT3 RS não é apenas sobre potência bruta; também é afinada para oferecer um desempenho excepcional em curvas. Sua suspensão esportiva, direção precisa e aerodinâmica refinada trabalham em harmonia para garantir uma aderência excepcional e uma resposta rápida em qualquer tipo de curva.</h1>
+            <h1 class='data'>O Nissan GT-R R35 é conhecido por seu desempenho de classe mundial e tecnologia avançada. Com seu sistema avançado de tração nas quatro rodas e transmissão de dupla embreagem, o GT-R oferece uma aceleração instantânea e uma resposta rápida ao comando do motorista. Além disso, sua suspensão ajustável e sistemas de controle dinâmico garantem uma condução precisa e ágil, independentemente das condições da estrada.</h1>
         </div>
 
         </div>
@@ -83,7 +83,7 @@ export default function ContentR35() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Além disso, a Porsche 911 GT3 RS ostenta uma aparência agressiva e distinta, com elementos aerodinâmicos proeminentes e detalhes exclusivos que não só contribuem para a sua performance, mas também a distinguem como uma obra-prima da engenharia automotiva.</h1>
+            <h1 class='data'>O Nissan GT-R R35 é altamente personalizável, permitindo que os proprietários adaptem o carro às suas preferências individuais. Com uma ampla variedade de peças de aftermarket disponíveis e opções de modificações de desempenho, o GT-R oferece um mundo de possibilidades para entusiastas de tuning e personalização. Isso contribui para uma comunidade vibrante e apaixonada de proprietários de GT-R, mantendo viva a cultura de tunagem japonesa.</h1>
         </div>
 
         </div>
@@ -103,7 +103,7 @@ export default function ContentR35() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Em resumo, a Porsche 911 GT3 RS é a personificação da paixão da Porsche pela excelência técnica e pela emoção pura da condução esportiva. É uma máquina feita para desafiar limites e elevar os padrões do que um carro esportivo pode alcançar.</h1>
+            <h1 class='data'>O Nissan GT-R R35 deixou um impacto duradouro na indústria automotiva global, sendo amplamente reconhecido como um dos supercarros mais impressionantes e acessíveis do mercado. Sua combinação de desempenho, tecnologia e valor o tornou uma escolha popular entre entusiastas e motoristas exigentes em todo o mundo. Com uma base de fãs dedicada e uma presença dominante nas estradas e nas pistas, o GT-R R35 continua a ser uma força a ser reconhecida e um símbolo de orgulho para a Nissan.</h1>
         </div>
 
         </div>

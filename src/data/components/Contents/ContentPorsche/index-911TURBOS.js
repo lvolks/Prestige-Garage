@@ -39,7 +39,7 @@ export default function Content911() {
         </div>
 
         <div className='information'>
-            <h1 class='data' contenteditable="true">A Porsche 911 GT3 RS é uma máquina de alto desempenho que combina o legado lendário da marca com tecnologia de ponta e engenharia de precisão. Esta versão extrema da icônica série 911 é projetada para entregar uma experiência de condução visceral e emocionante, tanto nas ruas quanto nas pistas.</h1>
+            <h1 class='data'>O Porsche 911 Turbo S é a personificação do desempenho extremo e da tecnologia de ponta. Equipado com um motor flat-six biturbo de 3.8 litros, este supercarro entrega uma potência impressionante de mais de 650 cavalos. Com sua tração integral e transmissão PDK de dupla embreagem, o 911 Turbo S acelera de 0 a 100 km/h em menos de 2,5 segundos, proporcionando uma experiência de condução emocionante e inesquecível.</h1>
         </div>
 
         </div>
@@ -51,7 +51,7 @@ export default function Content911() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Sob o capô, a GT3 RS é impulsionada por um motor de seis cilindros opostos (boxer) naturalmente aspirado, capaz de gerar uma potência impressionante. O som desse motor é uma sinfonia para os entusiastas automotivos, enquanto sua potência oferece uma aceleração intensa e uma experiência de condução verdadeiramente emocionante.</h1>
+            <h1 class='data'>O design do Porsche 911 Turbo S é uma fusão de elegância e agressividade, com linhas aerodinâmicas que não só impressionam visualmente, mas também otimizam o desempenho. Seu corpo esculpido não apenas transmite uma presença imponente na estrada, mas também contribui para a estabilidade em altas velocidades. Detalhes como as entradas de ar dianteiras amplas, as saídas de ar traseiras e os faróis LED destacam o caráter esportivo deste ícone automotivo.</h1>
         </div>
 
         </div>
@@ -71,7 +71,7 @@ export default function Content911() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">A Porsche 911 GT3 RS não é apenas sobre potência bruta; também é afinada para oferecer um desempenho excepcional em curvas. Sua suspensão esportiva, direção precisa e aerodinâmica refinada trabalham em harmonia para garantir uma aderência excepcional e uma resposta rápida em qualquer tipo de curva.</h1>
+            <h1 class='data'>Por dentro, o Porsche 911 Turbo S oferece uma fusão de luxo e tecnologia de última geração. Seu cockpit é ergonomicamente projetado, com materiais de alta qualidade e acabamentos refinados. O sistema de infoentretenimento Porsche Communication Management (PCM) mantém o motorista conectado e informado, enquanto os sistemas de assistência à condução proporcionam uma experiência de condução segura e conveniente. Combinando conforto, conveniência e tecnologia, o 911 Turbo S redefine os padrões de excelência.</h1>
         </div>
 
         </div>
@@ -83,7 +83,7 @@ export default function Content911() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Além disso, a Porsche 911 GT3 RS ostenta uma aparência agressiva e distinta, com elementos aerodinâmicos proeminentes e detalhes exclusivos que não só contribuem para a sua performance, mas também a distinguem como uma obra-prima da engenharia automotiva.</h1>
+            <h1 class='data'>Como parte da lendária linhagem 911 da Porsche, o 911 Turbo S carrega consigo um legado de performance inigualável. Desde o seu lançamento, este supercarro tem sido aclamado pela imprensa automotiva e adorado por entusiastas em todo o mundo. Sua combinação de desempenho bruto e refinamento luxuoso atrai uma ampla gama de motoristas, desde aficionados por velocidade até entusiastas de carros de luxo. O Porsche 911 Turbo S continua a elevar os padrões do que um carro esportivo pode alcançar.</h1>
         </div>
 
         </div>
@@ -103,7 +103,7 @@ export default function Content911() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Em resumo, a Porsche 911 GT3 RS é a personificação da paixão da Porsche pela excelência técnica e pela emoção pura da condução esportiva. É uma máquina feita para desafiar limites e elevar os padrões do que um carro esportivo pode alcançar.</h1>
+            <h1 class='data'>Com sua exclusividade e desempenho de classe mundial, o Porsche 911 Turbo S é mais do que apenas um carro esportivo; é um objeto de desejo para colecionadores e entusiastas de automóveis. Sua produção limitada e sua reputação como um dos melhores carros esportivos do mundo garantem que ele mantenha seu valor ao longo do tempo, tornando-se um investimento sólido para os sortudos o suficiente para possuí-lo. O Porsche 911 Turbo S não é apenas um carro, é uma declaração de estilo de vida.</h1>
         </div>
 
         </div>

@@ -39,7 +39,7 @@ export default function ContentVantage() {
         </div>
 
         <div className='information'>
-            <h1 class='data' contenteditable="true">Como o próprio nome indica, o Audi RS7 Sportback tem como base o A7 Sportback. Logo, um dos destaques é a carroceria no formato cupê com quatro portas. Ele se sobressai frente aos demais pelo caimento suave do teto até a traseira, formando praticamente dois-volumes ao invés de três.</h1>
+            <h1 class='data'>O Aston Martin Vantage é a personificação da performance britânica, combinando elegância atemporal com desempenho emocionante. Desde o seu lançamento, o Vantage tem sido aclamado por sua capacidade de oferecer uma experiência de condução visceral e emocionante, enquanto mantém a sofisticação e o refinamento característicos da marca. Como um dos modelos mais icônicos da linha Aston Martin, o Vantage continua a cativar entusiastas de automóveis em todo o mundo.</h1>
         </div>
 
         </div>
@@ -51,7 +51,7 @@ export default function ContentVantage() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">MSDIFOSDHJAFOUSDHFUDISAHFSADUIFHSDAFIUDHSAFUISDAHFDISUAHFSADUIFHMSDIFOSDHJAFOUSDHFUDISAHFSADUIFHSDAFIUDHSAFUISDAHFDISUAHFSADUIFHMSDIFOSDHJAFOUSDHFUDISAHFSADUIFHSDAFIUDHSAFUISDAHFDISUAHFSADUIFHMSDIFOSDHJAFOUSDHFUDISAHFSADUIFHSDAFIUDHSAFUISDAHFDISUAHFSADUIFHMSDIFOSDHJAFOUSDHFUDISAHFSADUIFHSDAFIUDHSAFUISDAHFDISUAHFSADUIFH</h1>
+            <h1 class='data'>O Aston Martin Vantage apresenta um design distinto e esportivo que reflete sua natureza de alta performance. Com suas linhas musculosas, proporções elegantes e detalhes marcantes, o Vantage emana uma aura de potência e elegância. Elementos como a grade dianteira em forma de colmeia, as saídas de ar laterais e os faróis afilados reforçam sua presença dinâmica na estrada.</h1>
         </div>
 
         </div>
@@ -71,7 +71,7 @@ export default function ContentVantage() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">A Porsche 911 GT3 RS não é apenas sobre potência bruta; também é afinada para oferecer um desempenho excepcional em curvas. Sua suspensão esportiva, direção precisa e aerodinâmica refinada trabalham em harmonia para garantir uma aderência excepcional e uma resposta rápida em qualquer tipo de curva.</h1>
+            <h1 class='data'>Equipado com um motor V8 biturbo de alto desempenho, o Aston Martin Vantage oferece um desempenho eletrizante que eleva os sentidos do condutor. Com mais de 500 cavalos de potência e um torque abundante, o Vantage é capaz de acelerar de 0 a 100 km/h em menos de 4 segundos, proporcionando uma experiência de condução emocionante e gratificante. Sua transmissão automática de oito velocidades e suspensão ajustável garantem uma condução precisa e controlada em todas as condições.</h1>
         </div>
 
         </div>
@@ -83,7 +83,7 @@ export default function ContentVantage() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Além disso, a Porsche 911 GT3 RS ostenta uma aparência agressiva e distinta, com elementos aerodinâmicos proeminentes e detalhes exclusivos que não só contribuem para a sua performance, mas também a distinguem como uma obra-prima da engenharia automotiva.</h1>
+            <h1 class='data'>No interior, o Aston Martin Vantage oferece um ambiente sofisticado e personalizável, onde cada detalhe foi cuidadosamente elaborado para proporcionar conforto e luxo. Materiais de alta qualidade, como couro premium, alumínio escovado e fibra de carbono, criam uma atmosfera de requinte e exclusividade. Recursos como o sistema de infotainment Aston Martin, os assentos esportivos ajustáveis e o sistema de áudio premium garantem uma experiência de condução envolvente e conectada.</h1>
         </div>
 
         </div>
@@ -103,7 +103,7 @@ export default function ContentVantage() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Em resumo, a Porsche 911 GT3 RS é a personificação da paixão da Porsche pela excelência técnica e pela emoção pura da condução esportiva. É uma máquina feita para desafiar limites e elevar os padrões do que um carro esportivo pode alcançar.</h1>
+            <h1 class='data'>O Aston Martin Vantage é mais do que apenas um carro; é um ícone da estrada aberta que exala charme e personalidade em cada curva. Sua combinação de design elegante, desempenho emocionante e artesanato meticuloso o torna uma escolha privilegiada para os entusiastas de carros esportivos que valorizam a tradição e a exclusividade. Como uma expressão do legado centenário da Aston Martin, o Vantage continua a ser uma das máquinas mais desejadas e admiradas nas estradas de todo o mundo.</h1>
         </div>
 
         </div>

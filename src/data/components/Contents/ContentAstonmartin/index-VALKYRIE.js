@@ -39,7 +39,7 @@ export default function ContentValkyrie() {
         </div>
 
         <div className='information'>
-            <h1 class='data' contenteditable="true">Como o próprio nome indica, o Audi RS7 Sportback tem como base o A7 Sportback. Logo, um dos destaques é a carroceria no formato cupê com quatro portas. Ele se sobressai frente aos demais pelo caimento suave do teto até a traseira, formando praticamente dois-volumes ao invés de três.</h1>
+            <h1 class='data'>O Aston Martin Valkyrie é uma obra-prima da engenharia automotiva, representando a fusão perfeita entre tecnologia de corrida de ponta e design exclusivo de supercarro. Desenvolvido em parceria com a Red Bull Racing Advanced Technologies, o Valkyrie incorpora os mais recentes avanços em aerodinâmica, materiais leves e propulsão híbrida para oferecer um desempenho sem precedentes, como um dos carros mais exclusivos já produzidos.</h1>
         </div>
 
         </div>
@@ -51,7 +51,7 @@ export default function ContentValkyrie() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">MSDIFOSDHJAFOUSDHFUDISAHFSADUIFHSDAFIUDHSAFUISDAHFDISUAHFSADUIFHMSDIFOSDHJAFOUSDHFUDISAHFSADUIFHSDAFIUDHSAFUISDAHFDISUAHFSADUIFHMSDIFOSDHJAFOUSDHFUDISAHFSADUIFHSDAFIUDHSAFUISDAHFDISUAHFSADUIFHMSDIFOSDHJAFOUSDHFUDISAHFSADUIFHSDAFIUDHSAFUISDAHFDISUAHFSADUIFHMSDIFOSDHJAFOUSDHFUDISAHFSADUIFHSDAFIUDHSAFUISDAHFDISUAHFSADUIFH</h1>
+            <h1 class='data'>O Aston Martin Valkyrie apresenta um design radical e aerodinâmica avançada que o torna verdadeiramente único na estrada. Com sua forma esculpida, linhas agressivas e detalhes futuristas, o Valkyrie transmite uma presença dominante e impressionante. Elementos como as portas de abertura para cima, o difusor traseiro maciço e o aerofólio ajustável exemplificam o compromisso com a performance aerodinâmica máxima e o estilo inigualável.</h1>
         </div>
 
         </div>
@@ -71,7 +71,7 @@ export default function ContentValkyrie() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">A Porsche 911 GT3 RS não é apenas sobre potência bruta; também é afinada para oferecer um desempenho excepcional em curvas. Sua suspensão esportiva, direção precisa e aerodinâmica refinada trabalham em harmonia para garantir uma aderência excepcional e uma resposta rápida em qualquer tipo de curva.</h1>
+            <h1 class='data'>Equipado com um motor V12 naturalmente aspirado de alta rotação e um sistema híbrido de assistência elétrica, o Aston Martin Valkyrie oferece um desempenho sobrenatural que desafia os limites da velocidade e da agilidade. Com uma potência combinada superior a 1.000 cavalos, o Valkyrie é capaz de alcançar acelerações vertiginosas e uma dinâmica de condução incomparável. Sua relação peso-potência extremamente baixa e sua aerodinâmica sofisticada garantem um bom desempenho.</h1>
         </div>
 
         </div>
@@ -83,7 +83,7 @@ export default function ContentValkyrie() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Além disso, a Porsche 911 GT3 RS ostenta uma aparência agressiva e distinta, com elementos aerodinâmicos proeminentes e detalhes exclusivos que não só contribuem para a sua performance, mas também a distinguem como uma obra-prima da engenharia automotiva.</h1>
+            <h1 class='data'>No interior, o Aston Martin Valkyrie oferece uma experiência de cockpit de corrida verdadeiramente excepcional, onde cada elemento foi projetado para maximizar o desempenho e o conforto do piloto. Com um layout minimalista e materiais de alta tecnologia, como fibra de carbono e Alcantara, o Valkyrie oferece uma experiência imersiva e envolvente. Recursos como o volante multifuncional, os mostradores digitais e os controles de estilo de competição garantem que o piloto esteja totalmente conectado à máquina.</h1>
         </div>
 
         </div>
@@ -103,7 +103,7 @@ export default function ContentValkyrie() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Em resumo, a Porsche 911 GT3 RS é a personificação da paixão da Porsche pela excelência técnica e pela emoção pura da condução esportiva. É uma máquina feita para desafiar limites e elevar os padrões do que um carro esportivo pode alcançar.</h1>
+            <h1 class='data'>O Aston Martin Valkyrie é mais do que apenas um carro; é uma obra de arte em movimento que redefine os limites do que é possível em um veículo de estrada. Sua combinação de desempenho extremo, design radical e artesanato meticuloso o torna uma verdadeira joia da coroa na coleção de supercarros. Como um testemunho do compromisso da Aston Martin com a excelência e a paixão pela condução, o Valkyrie continua a ser uma das máquinas mais desejadas e reverenciadas já criadas.</h1>
         </div>
 
         </div>

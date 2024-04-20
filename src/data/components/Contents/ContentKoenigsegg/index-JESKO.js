@@ -39,7 +39,7 @@ export default function ContentJesko() {
         </div>
 
         <div className='information'>
-            <h1 class='data' contenteditable="true">A Porsche 911 GT3 RS é uma máquina de alto desempenho que combina o legado lendário da marca com tecnologia de ponta e engenharia de precisão. Esta versão extrema da icônica série 911 é projetada para entregar uma experiência de condução visceral e emocionante, tanto nas ruas quanto nas pistas.</h1>
+            <h1 class='data'>O Koenigsegg Jesko é uma máquina de velocidade construída para redefinir os limites do que é possível em um supercarro. Equipado com um motor V8 twin-turbo de 5.0 litros, o Jesko produz uma potência alucinante de mais de 1.600 cavalos quando abastecido com E85. Combinado com uma transmissão de nove marchas de embreagem úmida Light Speed ​Transmission (LST), este supercarro oferece uma aceleração brutal e uma velocidade máxima estimada de mais de 480 km/h.</h1>
         </div>
 
         </div>
@@ -51,7 +51,7 @@ export default function ContentJesko() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Sob o capô, a GT3 RS é impulsionada por um motor de seis cilindros opostos (boxer) naturalmente aspirado, capaz de gerar uma potência impressionante. O som desse motor é uma sinfonia para os entusiastas automotivos, enquanto sua potência oferece uma aceleração intensa e uma experiência de condução verdadeiramente emocionante.</h1>
+            <h1 class='data'>O Koenigsegg Jesko apresenta um design que é tanto uma obra de arte quanto uma expressão de engenharia avançada. Suas linhas fluidas e curvas aerodinâmicas são esculpidas para cortar o ar com eficiência, proporcionando downforce e estabilidade excepcionais em altas velocidades. Elementos como as portas de abertura para cima e as saídas de ar ativas contribuem para sua presença imponente na estrada.</h1>
         </div>
 
         </div>
@@ -71,7 +71,7 @@ export default function ContentJesko() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">A Porsche 911 GT3 RS não é apenas sobre potência bruta; também é afinada para oferecer um desempenho excepcional em curvas. Sua suspensão esportiva, direção precisa e aerodinâmica refinada trabalham em harmonia para garantir uma aderência excepcional e uma resposta rápida em qualquer tipo de curva.</h1>
+            <h1 class='data'>Por dentro, o Koenigsegg Jesko oferece um ambiente de luxo e tecnologia de ponta. O cockpit é uma mistura de artesanato meticuloso e inovação moderna, com materiais de alta qualidade e acabamentos personalizados. Os assentos ergonômicos oferecem conforto durante viagens de alta velocidade, enquanto o sistema de infotainment mantém os ocupantes conectados e entretidos.</h1>
         </div>
 
         </div>
@@ -83,7 +83,7 @@ export default function ContentJesko() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Além disso, a Porsche 911 GT3 RS ostenta uma aparência agressiva e distinta, com elementos aerodinâmicos proeminentes e detalhes exclusivos que não só contribuem para a sua performance, mas também a distinguem como uma obra-prima da engenharia automotiva.</h1>
+            <h1 class='data'>O Koenigsegg Jesko é uma obra-prima de engenharia sueca, com cada aspecto do carro projetado para oferecer desempenho excepcional e confiabilidade incomparável. Desde sua estrutura de fibra de carbono até sua suspensão ativa Triplex, cada componente é fabricado com precisão e atenção aos detalhes. O Jesko representa o auge da tecnologia automotiva e a dedicação incansável da Koenigsegg à busca da perfeição.</h1>
         </div>
 
         </div>
@@ -103,7 +103,7 @@ export default function ContentJesko() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Em resumo, a Porsche 911 GT3 RS é a personificação da paixão da Porsche pela excelência técnica e pela emoção pura da condução esportiva. É uma máquina feita para desafiar limites e elevar os padrões do que um carro esportivo pode alcançar.</h1>
+            <h1 class='data'>Com sua produção altamente limitada e seu status como um dos supercarros mais cobiçados do mundo, o Koenigsegg Jesko é mais do que apenas um veículo; é um símbolo de status e prestígio. Sua exclusividade e desempenho incomparável garantem que ele permaneça como um objeto de desejo para colecionadores e entusiastas de automóveis em todo o mundo, mantendo seu valor ao longo do tempo e continuando a inspirar admiração por muitas gerações. O Jesko é uma verdadeira obra-prima da engenharia automotiva.</h1>
         </div>
 
         </div>

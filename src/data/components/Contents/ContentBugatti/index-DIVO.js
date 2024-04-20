@@ -39,7 +39,7 @@ export default function ContentDivo() {
         </div>
 
         <div className='information'>
-            <h1 class='data' contenteditable="true">A Porsche 911 GT3 RS é uma máquina de alto desempenho que combina o legado lendário da marca com tecnologia de ponta e engenharia de precisão. Esta versão extrema da icônica série 911 é projetada para entregar uma experiência de condução visceral e emocionante, tanto nas ruas quanto nas pistas.</h1>
+            <h1 class='data'>O Bugatti Divo é a expressão suprema da performance e exclusividade na indústria automotiva de alto luxo. Revelado em 2018 como uma edição limitada de apenas 40 unidades, o Divo representa o ápice da engenharia e design da Bugatti. Com sua combinação única de desempenho incomparável, artesanato meticuloso e exclusividade absoluta, o Divo é um tesouro automotivo cobiçado por colecionadores e entusiastas de todo o mundo.</h1>
         </div>
 
         </div>
@@ -51,7 +51,7 @@ export default function ContentDivo() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Sob o capô, a GT3 RS é impulsionada por um motor de seis cilindros opostos (boxer) naturalmente aspirado, capaz de gerar uma potência impressionante. O som desse motor é uma sinfonia para os entusiastas automotivos, enquanto sua potência oferece uma aceleração intensa e uma experiência de condução verdadeiramente emocionante.</h1>
+            <h1 class='data'>O Bugatti Divo apresenta um design distinto e aerodinâmica extrema que o diferencia de qualquer outro carro na estrada. Cada linha e curva do carro foi meticulosamente projetada para otimizar o fluxo de ar e maximizar a downforce em altas velocidades. Detalhes como o divisor dianteiro proeminente, o grande difusor traseiro e o spoiler ajustável destacam o compromisso da Bugatti com o desempenho aerodinâmico de classe mundial.</h1>
         </div>
 
         </div>
@@ -71,7 +71,7 @@ export default function ContentDivo() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">A Porsche 911 GT3 RS não é apenas sobre potência bruta; também é afinada para oferecer um desempenho excepcional em curvas. Sua suspensão esportiva, direção precisa e aerodinâmica refinada trabalham em harmonia para garantir uma aderência excepcional e uma resposta rápida em qualquer tipo de curva.</h1>
+            <h1 class='data'>Equipado com o mesmo motor W16 quad-turbo de 8.0 litros encontrado no Chiron, o Bugatti Divo oferece um desempenho impecável e uma potência inigualável. Com mais de 1.500 cavalos de potência e um torque monstruoso, o Divo é capaz de acelerar de 0 a 100 km/h em menos de 2,5 segundos e atingir velocidades de topo que desafiam a gravidade. Sua transmissão de dupla embreagem de sete velocidades e seu sistema de tração nas quatro rodas garantem uma entrega de potência suave e uma experiência de condução emocionante em todas as condições.</h1>
         </div>
 
         </div>
@@ -83,7 +83,7 @@ export default function ContentDivo() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Além disso, a Porsche 911 GT3 RS ostenta uma aparência agressiva e distinta, com elementos aerodinâmicos proeminentes e detalhes exclusivos que não só contribuem para a sua performance, mas também a distinguem como uma obra-prima da engenharia automotiva.</h1>
+            <h1 class='data'>No interior, o Bugatti Divo oferece um ambiente de luxo e personalização sob medida, onde cada detalhe é adaptado às preferências individuais do cliente. Materiais exóticos, como couro de alta qualidade, fibra de carbono e metal usinado, são habilmente trabalhados para criar uma atmosfera de elegância e sofisticação. Recursos de última geração, como sistemas de infoentretenimento avançados e controles intuitivos, garantem uma experiência de condução indulgente e inigualável.</h1>
         </div>
 
         </div>
@@ -103,7 +103,7 @@ export default function ContentDivo() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Em resumo, a Porsche 911 GT3 RS é a personificação da paixão da Porsche pela excelência técnica e pela emoção pura da condução esportiva. É uma máquina feita para desafiar limites e elevar os padrões do que um carro esportivo pode alcançar.</h1>
+            <h1 class='data'>O Bugatti Divo é mais do que apenas um carro; é uma obra de arte sobre rodas que transcende o conceito de automóvel. Cada aspecto do Divo, desde seu design aerodinâmico até seu desempenho eletrizante, é uma manifestação da paixão, habilidade e dedicação dos artesãos e engenheiros da Bugatti. Como uma das criações mais exclusivas e desejadas da marca, o Divo continua a inspirar admiração e reverência em todos os que têm o privilégio de testemunhar sua presença majestosa.</h1>
         </div>
 
         </div>

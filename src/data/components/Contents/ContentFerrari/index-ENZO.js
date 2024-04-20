@@ -39,7 +39,7 @@ export default function ContentEnzo() {
         </div>
 
         <div className='information'>
-            <h1 class='data' contenteditable="true">A Porsche 911 GT3 RS é uma máquina de alto desempenho que combina o legado lendário da marca com tecnologia de ponta e engenharia de precisão. Esta versão extrema da icônica série 911 é projetada para entregar uma experiência de condução visceral e emocionante, tanto nas ruas quanto nas pistas.</h1>
+            <h1 class='data'>A Ferrari Enzo é um ícone indiscutível da engenharia automotiva italiana, homenageando o fundador da marca, Enzo Ferrari. Lançado em 2002, este supercarro de edição limitada representa o que há de melhor em termos de tecnologia, desempenho e estilo da Ferrari. Com sua aparência distinta e desempenho extraordinário, a Enzo personifica a paixão e o legado da marca em cada curva e detalhe.</h1>
         </div>
 
         </div>
@@ -51,7 +51,7 @@ export default function ContentEnzo() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Sob o capô, a GT3 RS é impulsionada por um motor de seis cilindros opostos (boxer) naturalmente aspirado, capaz de gerar uma potência impressionante. O som desse motor é uma sinfonia para os entusiastas automotivos, enquanto sua potência oferece uma aceleração intensa e uma experiência de condução verdadeiramente emocionante.</h1>
+            <h1 class='data'>Equipada com um motor V12 de 6.0 litros capaz de gerar mais de 650 cavalos de potência, a Ferrari Enzo oferece uma experiência de condução verdadeiramente emocionante. Com uma velocidade máxima de mais de 350 km/h e uma aceleração de 0 a 100 km/h em menos de 3,5 segundos, este supercarro é uma máquina de performance pura. Cada aspecto do design e engenharia da Enzo é projetado para proporcionar uma experiência de condução visceral e inesquecível.</h1>
         </div>
 
         </div>
@@ -71,7 +71,7 @@ export default function ContentEnzo() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">A Porsche 911 GT3 RS não é apenas sobre potência bruta; também é afinada para oferecer um desempenho excepcional em curvas. Sua suspensão esportiva, direção precisa e aerodinâmica refinada trabalham em harmonia para garantir uma aderência excepcional e uma resposta rápida em qualquer tipo de curva.</h1>
+            <h1 class='data'>O design da Ferrari Enzo não é apenas bonito, mas também altamente funcional. Cada linha e curva do carro é meticulosamente trabalhada para otimizar a aerodinâmica e proporcionar downforce máximo em altas velocidades. O resultado é uma aparência agressiva e imponente que não apenas impressiona visualmente, mas também melhora o desempenho do carro em circuitos de corrida e estradas sinuosas.</h1>
         </div>
 
         </div>
@@ -83,7 +83,7 @@ export default function ContentEnzo() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Além disso, a Porsche 911 GT3 RS ostenta uma aparência agressiva e distinta, com elementos aerodinâmicos proeminentes e detalhes exclusivos que não só contribuem para a sua performance, mas também a distinguem como uma obra-prima da engenharia automotiva.</h1>
+            <h1 class='data'>No interior da Ferrari Enzo, o foco está no piloto e na experiência de condução. Os bancos esportivos oferecem suporte lateral excepcional, mantendo o motorista firmemente plantado mesmo nas curvas mais agressivas. Os controles são ergonomicamente posicionados para fácil acesso, permitindo que o motorista se concentre totalmente na estrada à frente. Cada detalhe do interior é trabalhado com materiais de alta qualidade e acabamento artesanal, refletindo o compromisso da Ferrari com o luxo e a excelência.</h1>
         </div>
 
         </div>
@@ -103,7 +103,7 @@ export default function ContentEnzo() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Em resumo, a Porsche 911 GT3 RS é a personificação da paixão da Porsche pela excelência técnica e pela emoção pura da condução esportiva. É uma máquina feita para desafiar limites e elevar os padrões do que um carro esportivo pode alcançar.</h1>
+            <h1 class='data'>A Ferrari Enzo deixou um legado imortal na história dos supercarros, sendo lembrada como uma das criações mais emblemáticas da marca italiana. Sua produção limitada e seu desempenho extraordinário garantem que ela permaneça como um objeto de desejo para colecionadores e entusiastas de automóveis em todo o mundo. Com seu status de ícone automotivo, a Enzo continua a inspirar admiração e respeito, representando o auge da excelência italiana na indústria automobilística.</h1>
         </div>
 
         </div>

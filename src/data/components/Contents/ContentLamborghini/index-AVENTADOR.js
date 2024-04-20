@@ -39,7 +39,7 @@ export default function ContentAventador() {
         </div>
 
         <div className='information'>
-            <h1 class='data' contenteditable="true">A Porsche 911 GT3 RS é uma máquina de alto desempenho que combina o legado lendário da marca com tecnologia de ponta e engenharia de precisão. Esta versão extrema da icônica série 911 é projetada para entregar uma experiência de condução visceral e emocionante, tanto nas ruas quanto nas pistas.</h1>
+            <h1 class='data'>A Lamborghini Aventador é um supercarro que personifica o espírito audacioso e o desempenho exuberante da marca italiana. Equipada com um motor V12 aspirado de 6.5 litros, a Aventador produz uma potência impressionante de mais de 700 cavalos, proporcionando uma experiência de condução visceral e emocionante. Com sua velocidade máxima de mais de 350 km/h e uma aceleração de 0 a 100 km/h em menos de 3 segundos.</h1>
         </div>
 
         </div>
@@ -51,7 +51,7 @@ export default function ContentAventador() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Sob o capô, a GT3 RS é impulsionada por um motor de seis cilindros opostos (boxer) naturalmente aspirado, capaz de gerar uma potência impressionante. O som desse motor é uma sinfonia para os entusiastas automotivos, enquanto sua potência oferece uma aceleração intensa e uma experiência de condução verdadeiramente emocionante.</h1>
+            <h1 class='data'>O design da Lamborghini Aventador é uma obra de arte em movimento, com linhas agressivas e uma postura imponente que a tornam instantaneamente reconhecível. Seu corpo esculpido é uma fusão de estilo e função, com entradas de ar amplas e uma asa traseira proeminente que não apenas aprimoram a aerodinâmica, mas também aumentam a estabilidade em altas velocidades. Com suas portas de tesoura icônicas e faróis em forma de Y, a Aventador é uma declaração de estilo e desempenho.</h1>
         </div>
 
         </div>
@@ -71,7 +71,7 @@ export default function ContentAventador() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">A Porsche 911 GT3 RS não é apenas sobre potência bruta; também é afinada para oferecer um desempenho excepcional em curvas. Sua suspensão esportiva, direção precisa e aerodinâmica refinada trabalham em harmonia para garantir uma aderência excepcional e uma resposta rápida em qualquer tipo de curva.</h1>
+            <h1 class='data'>Por dentro, a Lamborghini Aventador oferece um ambiente de luxo e tecnologia de ponta. O cockpit é uma combinação de artesanato italiano e inovação moderna, com materiais de alta qualidade e acabamentos personalizados. Os assentos esportivos abraçam o motorista e o passageiro, proporcionando conforto durante viagens de alta velocidade, enquanto o sistema de infotainment mantém todos os ocupantes conectados e entretidos.</h1>
         </div>
 
         </div>
@@ -83,7 +83,7 @@ export default function ContentAventador() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Além disso, a Porsche 911 GT3 RS ostenta uma aparência agressiva e distinta, com elementos aerodinâmicos proeminentes e detalhes exclusivos que não só contribuem para a sua performance, mas também a distinguem como uma obra-prima da engenharia automotiva.</h1>
+            <h1 class='data'>Como parte da linhagem de supercarros da Lamborghini, a Aventador carrega consigo um legado de desempenho e paixão pela condução. Cada aspecto deste carro é projetado para oferecer uma experiência de condução emocionante e envolvente, desde sua potência bruta até sua manobrabilidade ágil. Desde seu lançamento, a Aventador tem sido elogiada por sua combinação de desempenho de classe mundial, estilo marcante e artesanato meticuloso.</h1>
         </div>
 
         </div>
@@ -103,7 +103,7 @@ export default function ContentAventador() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Em resumo, a Porsche 911 GT3 RS é a personificação da paixão da Porsche pela excelência técnica e pela emoção pura da condução esportiva. É uma máquina feita para desafiar limites e elevar os padrões do que um carro esportivo pode alcançar.</h1>
+            <h1 class='data'>Com sua produção altamente limitada e seu status como um dos supercarros mais cobiçados do mundo, a Lamborghini Aventador é mais do que apenas um veículo; é um símbolo de status e prestígio. Sua exclusividade e desempenho incomparável garantem que ela permaneça como um objeto de desejo para colecionadores e entusiastas de automóveis em todo o mundo, mantendo seu valor ao longo do tempo e continuando a inspirar admiração por muitas gerações.</h1>
         </div>
 
         </div>

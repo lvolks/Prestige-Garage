@@ -39,7 +39,7 @@ export default function ContentSls() {
         </div>
 
         <div className='information'>
-            <h1 class='data' contenteditable="true">A Porsche 911 GT3 RS é uma máquina de alto desempenho que combina o legado lendário da marca com tecnologia de ponta e engenharia de precisão. Esta versão extrema da icônica série 911 é projetada para entregar uma experiência de condução visceral e emocionante, tanto nas ruas quanto nas pistas.</h1>
+            <h1 class='data'>O Mercedes-Benz SLS AMG é um ícone de desempenho, equipado com um motor V8 de 6.2 litros capaz de produzir mais de 570 cavalos de potência. Esta máquina de poder é capaz de atingir uma velocidade máxima de mais de 320 km/h e acelerar de 0 a 100 km/h em menos de 4 segundos. Com sua transmissão de sete velocidades e tração traseira, o SLS AMG oferece uma experiência de condução emocionante e envolvente.</h1>
         </div>
 
         </div>
@@ -51,7 +51,7 @@ export default function ContentSls() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Sob o capô, a GT3 RS é impulsionada por um motor de seis cilindros opostos (boxer) naturalmente aspirado, capaz de gerar uma potência impressionante. O som desse motor é uma sinfonia para os entusiastas automotivos, enquanto sua potência oferece uma aceleração intensa e uma experiência de condução verdadeiramente emocionante.</h1>
+            <h1 class='data'>O design do Mercedes-Benz SLS AMG é verdadeiramente cativante, com suas linhas aerodinâmicas fluidas e portas de asa de gaivota icônicas. Cada curva e detalhe são cuidadosamente trabalhados para garantir uma estética impressionante e uma performance otimizada. Seus faróis dianteiros de LED e grade frontal imponente destacam sua presença única na estrada, enquanto a traseira larga e musculosa sugere o poder que reside sob o capô.</h1>
         </div>
 
         </div>
@@ -71,7 +71,7 @@ export default function ContentSls() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">A Porsche 911 GT3 RS não é apenas sobre potência bruta; também é afinada para oferecer um desempenho excepcional em curvas. Sua suspensão esportiva, direção precisa e aerodinâmica refinada trabalham em harmonia para garantir uma aderência excepcional e uma resposta rápida em qualquer tipo de curva.</h1>
+            <h1 class='data'>Por dentro, o Mercedes-Benz SLS AMG oferece um ambiente de luxo e tecnologia avançada. Os materiais de alta qualidade e os acabamentos elegantes criam uma atmosfera de refinamento, enquanto os assentos esportivos oferecem conforto e suporte durante viagens de alta performance. O sistema de infotainment com tela central oferece controle intuitivo e acesso a uma variedade de recursos, mantendo o motorista conectado e informado em todos os momentos.</h1>
         </div>
 
         </div>
@@ -83,7 +83,7 @@ export default function ContentSls() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Além disso, a Porsche 911 GT3 RS ostenta uma aparência agressiva e distinta, com elementos aerodinâmicos proeminentes e detalhes exclusivos que não só contribuem para a sua performance, mas também a distinguem como uma obra-prima da engenharia automotiva.</h1>
+            <h1 class='data'>Como parte da família AMG da Mercedes-Benz, o SLS AMG carrega consigo um legado de desempenho e engenharia de alto nível. Cada aspecto deste supercarro é projetado para oferecer uma experiência de condução emocionante e dinâmica, refletindo a paixão e a dedicação dos engenheiros da AMG. Desde sua estreia, o SLS AMG tem sido aclamado como um dos melhores carros esportivos do mundo, conquistando corações e mentes de entusiastas de automóveis em todo o mundo.</h1>
         </div>
 
         </div>
@@ -103,7 +103,7 @@ export default function ContentSls() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Em resumo, a Porsche 911 GT3 RS é a personificação da paixão da Porsche pela excelência técnica e pela emoção pura da condução esportiva. É uma máquina feita para desafiar limites e elevar os padrões do que um carro esportivo pode alcançar.</h1>
+            <h1 class='data'>Com sua produção limitada e seu status como um dos carros mais cobiçados do mundo, o Mercedes-Benz SLS AMG é mais do que apenas um veículo; é uma afirmação de estilo de vida e uma expressão de status e prestígio. Sua exclusividade e desempenho de classe mundial garantem que ele permaneça como um objeto de desejo para colecionadores e entusiastas de automóveis, mantendo seu valor ao longo do tempo e continuando a inspirar admiração onde quer que vá. O SLS AMG é verdadeiramente uma obra-prima.</h1>
         </div>
 
         </div>

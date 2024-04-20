@@ -39,7 +39,7 @@ import P1 from "D:/Coding/React/prestige-garage/src/data/pages/cars/Mclaren/Vari
 
 import Astonmartin from "./data/pages/cars/Astonmartin/astonmartin";
 import Vulcan from "D:/Coding/React/prestige-garage/src/data/pages/cars/Astonmartin/Variants/vulcan";
-import Valour from "D:/Coding/React/prestige-garage/src/data/pages/cars/Astonmartin/Variants/valour";
+import Db11 from "D:/Coding/React/prestige-garage/src/data/pages/cars/Astonmartin/Variants/db11";
 import Valkyrie from "D:/Coding/React/prestige-garage/src/data/pages/cars/Astonmartin/Variants/valkyrie";
 import Vantage from "D:/Coding/React/prestige-garage/src/data/pages/cars/Astonmartin/Variants/vantage";
 
@@ -122,7 +122,7 @@ export default function RoutesConfig() {
       <Route path="/astonmartin" element={<Astonmartin />} />
       <Route path="/astonmartin/valkyrie" element={<Valkyrie />} />
       <Route path="/astonmartin/vulcan" element={<Vulcan />} />
-      <Route path="/astonmartin/valour" element={<Valour />} />
+      <Route path="/astonmartin/db11" element={<Db11 />} />
       <Route path="/astonmartin/vantage" element={<Vantage />} />
 
       <Route path="/mclaren" element={<Mclaren />} />

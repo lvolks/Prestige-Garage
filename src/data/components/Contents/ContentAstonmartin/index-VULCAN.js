@@ -39,7 +39,7 @@ export default function ContentVulcan() {
         </div>
 
         <div className='information'>
-            <h1 class='data' contenteditable="true">Como o próprio nome indica, o Audi RS7 Sportback tem como base o A7 Sportback. Logo, um dos destaques é a carroceria no formato cupê com quatro portas. Ele se sobressai frente aos demais pelo caimento suave do teto até a traseira, formando praticamente dois-volumes ao invés de três.</h1>
+            <h1 class='data'>O Aston Martin Vulcan representa a máxima expressão da engenharia automotiva da marca britânica, unindo potência incomparável, design arrojado e tecnologia de ponta. Como um carro de pista extremamente exclusivo, o Vulcan foi desenvolvido para oferecer um desempenho excepcional e uma experiência de condução emocionante para os entusiastas mais exigentes. Com uma produção limitada e um design impressionante.</h1>
         </div>
 
         </div>
@@ -51,7 +51,7 @@ export default function ContentVulcan() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">MSDIFOSDHJAFOUSDHFUDISAHFSADUIFHSDAFIUDHSAFUISDAHFDISUAHFSADUIFHMSDIFOSDHJAFOUSDHFUDISAHFSADUIFHSDAFIUDHSAFUISDAHFDISUAHFSADUIFHMSDIFOSDHJAFOUSDHFUDISAHFSADUIFHSDAFIUDHSAFUISDAHFDISUAHFSADUIFHMSDIFOSDHJAFOUSDHFUDISAHFSADUIFHSDAFIUDHSAFUISDAHFDISUAHFSADUIFHMSDIFOSDHJAFOUSDHFUDISAHFSADUIFHSDAFIUDHSAFUISDAHFDISUAHFSADUIFH</h1>
+            <h1 class='data'>O Aston Martin Vulcan apresenta um design exótico e uma aerodinâmica extrema, projetados para proporcionar um desempenho incomparável na pista. Com linhas agressivas, formas esculpidas e detalhes aerodinâmicos proeminentes, o Vulcan emana uma presença imponente e dominante. Elementos como a asa traseira ajustável, as entradas de ar laterais amplas e o difusor traseiro maciço garantem uma aderência excepcional e estabilidade em alta velocidade.</h1>
         </div>
 
         </div>
@@ -71,7 +71,7 @@ export default function ContentVulcan() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">A Porsche 911 GT3 RS não é apenas sobre potência bruta; também é afinada para oferecer um desempenho excepcional em curvas. Sua suspensão esportiva, direção precisa e aerodinâmica refinada trabalham em harmonia para garantir uma aderência excepcional e uma resposta rápida em qualquer tipo de curva.</h1>
+            <h1 class='data'>Equipado com um motor V12 de aspiração natural de mais de 800 cavalos de potência, o Aston Martin Vulcan oferece uma potência alucinante que desafia os limites da velocidade e da emoção. Com uma transmissão sequencial de seis velocidades e tração traseira, o Vulcan é capaz de atingir velocidades incríveis e tempos de volta impressionantes. Sua construção leve e sua suspensão ajustável garantem uma dirigibilidade ágil e responsiva em todas as situações de corrida.</h1>
         </div>
 
         </div>
@@ -83,7 +83,7 @@ export default function ContentVulcan() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Além disso, a Porsche 911 GT3 RS ostenta uma aparência agressiva e distinta, com elementos aerodinâmicos proeminentes e detalhes exclusivos que não só contribuem para a sua performance, mas também a distinguem como uma obra-prima da engenharia automotiva.</h1>
+            <h1 class='data'>No interior, o Aston Martin Vulcan oferece um ambiente de corrida sob medida, onde cada detalhe foi projetado para maximizar o desempenho e o conforto do piloto. Com assentos de competição personalizados, volante de corrida multifuncional e um painel de instrumentos simplificado, o Vulcan oferece ao piloto uma conexão direta com a máquina. Materiais de alta qualidade e acabamentos de luxo garantem uma experiência de condução exclusiva e indulgente.</h1>
         </div>
 
         </div>
@@ -103,7 +103,7 @@ export default function ContentVulcan() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Em resumo, a Porsche 911 GT3 RS é a personificação da paixão da Porsche pela excelência técnica e pela emoção pura da condução esportiva. É uma máquina feita para desafiar limites e elevar os padrões do que um carro esportivo pode alcançar.</h1>
+            <h1 class='data'>O Aston Martin Vulcan é mais do que apenas um carro de corrida; é uma obra de arte sobre rodas que encapsula a essência da paixão automotiva. Sua combinação de desempenho emocionante, design impressionante e exclusividade absoluta o torna uma das máquinas mais cobiçadas e admiradas já criadas. Como um testemunho do compromisso da Aston Martin com a excelência e a inovação, o Vulcan continua a ser um símbolo de prestígio e poder nas pistas de corrida ao redor do mundo.</h1>
         </div>
 
         </div>

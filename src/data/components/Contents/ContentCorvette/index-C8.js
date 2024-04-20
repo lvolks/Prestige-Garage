@@ -39,7 +39,7 @@ export default function ContentC8() {
         </div>
 
         <div className='information'>
-            <h1 class='data' contenteditable="true">A Porsche 911 GT3 RS é uma máquina de alto desempenho que combina o legado lendário da marca com tecnologia de ponta e engenharia de precisão. Esta versão extrema da icônica série 911 é projetada para entregar uma experiência de condução visceral e emocionante, tanto nas ruas quanto nas pistas.</h1>
+            <h1 class='data'>O Corvette C8 é uma revolução na história do lendário esportivo americano, marcando a primeira vez que a Chevrolet adotou um layout de motor central para o Corvette de produção em série. Lançado em 2020, o C8 representa um salto significativo em termos de desempenho, design e tecnologia, empurrando os limites do que é possível em um carro esportivo americano.</h1>
         </div>
 
         </div>
@@ -51,7 +51,7 @@ export default function ContentC8() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Sob o capô, a GT3 RS é impulsionada por um motor de seis cilindros opostos (boxer) naturalmente aspirado, capaz de gerar uma potência impressionante. O som desse motor é uma sinfonia para os entusiastas automotivos, enquanto sua potência oferece uma aceleração intensa e uma experiência de condução verdadeiramente emocionante.</h1>
+            <h1 class='data'>O Corvette C8 apresenta um design radical e agressivo que reflete sua natureza esportiva e futurista. Com linhas aerodinâmicas fluidas, proporções musculosas e um cockpit rebaixado, o C8 transmite uma presença imponente e atlética. Detalhes como os faróis afilados, as saídas de ar laterais e o difusor traseiro integrado não apenas melhoram a estética do carro, mas também otimizam o fluxo de ar para melhor desempenho aerodinâmico.</h1>
         </div>
 
         </div>
@@ -71,7 +71,7 @@ export default function ContentC8() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">A Porsche 911 GT3 RS não é apenas sobre potência bruta; também é afinada para oferecer um desempenho excepcional em curvas. Sua suspensão esportiva, direção precisa e aerodinâmica refinada trabalham em harmonia para garantir uma aderência excepcional e uma resposta rápida em qualquer tipo de curva.</h1>
+            <h1 class='data'>Equipado com um motor V8 de 6.2 litros montado no centro, o Corvette C8 oferece um desempenho excepcional que rivaliza com os melhores supercarros do mundo. Com mais de 490 cavalos de potência e uma transmissão de dupla embreagem de oito velocidades, o C8 é capaz de acelerar de 0 a 100 km/h em menos de 3 segundos e atingir uma velocidade máxima de mais de 300 km/h, proporcionando uma experiência de direção emocionante e envolvente.</h1>
         </div>
 
         </div>
@@ -83,7 +83,7 @@ export default function ContentC8() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Além disso, a Porsche 911 GT3 RS ostenta uma aparência agressiva e distinta, com elementos aerodinâmicos proeminentes e detalhes exclusivos que não só contribuem para a sua performance, mas também a distinguem como uma obra-prima da engenharia automotiva.</h1>
+            <h1 class='data'>No interior, o Corvette C8 oferece uma experiência de condução moderna e luxuosa, com uma infinidade de tecnologias avançadas e materiais de alta qualidade. O cockpit centrado no motorista coloca todas as informações e controles ao alcance das mãos, enquanto os assentos esportivos oferecem conforto e suporte mesmo durante as viagens mais longas. Recursos como o sistema de infoentretenimento de última geração e os modos de condução personalizáveis elevam o nível de sofisticação e prazer ao dirigir.</h1>
         </div>
 
         </div>
@@ -103,7 +103,7 @@ export default function ContentC8() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Em resumo, a Porsche 911 GT3 RS é a personificação da paixão da Porsche pela excelência técnica e pela emoção pura da condução esportiva. É uma máquina feita para desafiar limites e elevar os padrões do que um carro esportivo pode alcançar.</h1>
+            <h1 class='data'>O Corvette C8 representa um novo capítulo emocionante na história do lendário esportivo americano, prometendo continuar o legado de desempenho e inovação estabelecido por seus predecessores. Com sua combinação de design ousado, desempenho emocionante e tecnologia de ponta, o C8 continua a empurrar os limites do que é possível em um carro esportivo, consolidando seu lugar como um dos modelos mais emocionantes e desejados da Chevrolet.</h1>
         </div>
 
         </div>

@@ -39,7 +39,7 @@ export default function ContentSf90() {
         </div>
 
         <div className='information'>
-            <h1 class='data' contenteditable="true">A Porsche 911 GT3 RS é uma máquina de alto desempenho que combina o legado lendário da marca com tecnologia de ponta e engenharia de precisão. Esta versão extrema da icônica série 911 é projetada para entregar uma experiência de condução visceral e emocionante, tanto nas ruas quanto nas pistas.</h1>
+            <h1 class='data'>A Ferrari SF90 Stradale representa o auge da engenharia automotiva italiana, combinando tecnologia de ponta com desempenho extraordinário. Lançada em 2019, a SF90 é o primeiro híbrido plug-in da Ferrari, incorporando décadas de expertise da marca em corridas e inovação tecnológica. Com um motor V8 twin-turbo combinado com três motores elétricos, a SF90 oferece uma potência impressionante e uma experiência de condução incomparável.</h1>
         </div>
 
         </div>
@@ -51,7 +51,7 @@ export default function ContentSf90() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Sob o capô, a GT3 RS é impulsionada por um motor de seis cilindros opostos (boxer) naturalmente aspirado, capaz de gerar uma potência impressionante. O som desse motor é uma sinfonia para os entusiastas automotivos, enquanto sua potência oferece uma aceleração intensa e uma experiência de condução verdadeiramente emocionante.</h1>
+            <h1 class='data'>Equipada com um motor V8 twin-turbo de 4.0 litros e três motores elétricos, a Ferrari SF90 Stradale produz uma potência combinada de mais de 1.000 cavalos. Essa impressionante quantidade de potência permite que o carro acelere de 0 a 100 km/h em menos de 2,5 segundos e atinja uma velocidade máxima de mais de 340 km/h. Além disso, o sistema de tração nas quatro rodas garante uma tração excepcional em todas as condições de direção.</h1>
         </div>
 
         </div>
@@ -71,7 +71,7 @@ export default function ContentSf90() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">A Porsche 911 GT3 RS não é apenas sobre potência bruta; também é afinada para oferecer um desempenho excepcional em curvas. Sua suspensão esportiva, direção precisa e aerodinâmica refinada trabalham em harmonia para garantir uma aderência excepcional e uma resposta rápida em qualquer tipo de curva.</h1>
+            <h1 class='data'>O design da Ferrari SF90 Stradale é uma fusão de forma e função, combinando elementos futuristas com uma estética agressiva e aerodinâmica. Cada detalhe do carro foi cuidadosamente projetado para otimizar o fluxo de ar e melhorar o desempenho em alta velocidade. Desde sua grade dianteira distinta até suas saídas de ar laterais e spoiler traseiro ativo, a SF90 é uma obra de arte em movimento.</h1>
         </div>
 
         </div>
@@ -83,7 +83,7 @@ export default function ContentSf90() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Além disso, a Porsche 911 GT3 RS ostenta uma aparência agressiva e distinta, com elementos aerodinâmicos proeminentes e detalhes exclusivos que não só contribuem para a sua performance, mas também a distinguem como uma obra-prima da engenharia automotiva.</h1>
+            <h1 class='data'>No interior da Ferrari SF90 Stradale, os ocupantes são recebidos por um ambiente luxuoso e tecnologicamente avançado. Os materiais de alta qualidade e o acabamento artesanal criam uma sensação de requinte e exclusividade, enquanto os sistemas de infotainment e assistência ao motorista mantêm os ocupantes conectados e seguros. Os assentos esportivos oferecem conforto e suporte durante viagens de alta velocidade, garantindo uma experiência de condução premium em todos os momentos.</h1>
         </div>
 
         </div>
@@ -103,7 +103,7 @@ export default function ContentSf90() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Em resumo, a Porsche 911 GT3 RS é a personificação da paixão da Porsche pela excelência técnica e pela emoção pura da condução esportiva. É uma máquina feita para desafiar limites e elevar os padrões do que um carro esportivo pode alcançar.</h1>
+            <h1 class='data'>A Ferrari SF90 Stradale marca o início de um novo capítulo na história da lendária fabricante italiana. Sua combinação de desempenho excepcional, tecnologia inovadora e design deslumbrante a coloca no topo da lista dos supercarros mais desejados do mundo. Com sua produção limitada e seu status como o primeiro híbrido plug-in da Ferrari, a SF90 está destinada a se tornar um ícone da marca e um marco na evolução dos supercarros modernos.</h1>
         </div>
 
         </div>

@@ -40,7 +40,7 @@ export default function ContentI320() {
         </div>
 
         <div className='information'>
-            <h1 class='data' contenteditable="true">A Porsche 911 GT3 RS é uma máquina de alto desempenho que combina o legado lendário da marca com tecnologia de ponta e engenharia de precisão. Esta versão extrema da icônica série 911 é projetada para entregar uma experiência de condução visceral e emocionante, tanto nas ruas quanto nas pistas.</h1>
+            <h1 class='data'>O BMW 320i é uma síntese magistral de desempenho dinâmico e sofisticação moderna. Como parte da família BMW Série 3, o 320i personifica a filosofia da marca de oferecer uma experiência de condução emocionante e luxuosa. Desde seu design elegante até sua engenharia meticulosa, o 320i é um verdadeiro ícone da categoria de sedãs esportivos de luxo.</h1>
         </div>
 
         </div>
@@ -52,7 +52,7 @@ export default function ContentI320() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Sob o capô, a GT3 RS é impulsionada por um motor de seis cilindros opostos (boxer) naturalmente aspirado, capaz de gerar uma potência impressionante. O som desse motor é uma sinfonia para os entusiastas automotivos, enquanto sua potência oferece uma aceleração intensa e uma experiência de condução verdadeiramente emocionante.</h1>
+            <h1 class='data'>O BMW 320i apresenta um design distinto e elegante que combina linhas fluidas com detalhes precisos. A grade dianteira em formato de rim, os faróis LED afilados e as linhas esculpidas conferem ao 320i uma presença marcante na estrada. Cada aspecto do design foi cuidadosamente considerado para oferecer uma estética atemporal e aerodinâmica eficiente.</h1>
         </div>
 
         </div>
@@ -72,7 +72,7 @@ export default function ContentI320() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">A Porsche 911 GT3 RS não é apenas sobre potência bruta; também é afinada para oferecer um desempenho excepcional em curvas. Sua suspensão esportiva, direção precisa e aerodinâmica refinada trabalham em harmonia para garantir uma aderência excepcional e uma resposta rápida em qualquer tipo de curva.</h1>
+            <h1 class='data'>Equipado com um motor TwinPower Turbo de quatro cilindros e 2.0 litros, o BMW 320i oferece um equilíbrio excepcional entre desempenho e eficiência. Com mais de 180 cavalos de potência disponíveis, o 320i é capaz de acelerar suavemente e oferecer uma experiência de condução envolvente. Sua transmissão automática de oito velocidades proporciona trocas de marchas precisas e eficientes, contribuindo para uma condução suave e responsiva.</h1>
         </div>
 
         </div>
@@ -84,7 +84,7 @@ export default function ContentI320() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Além disso, a Porsche 911 GT3 RS ostenta uma aparência agressiva e distinta, com elementos aerodinâmicos proeminentes e detalhes exclusivos que não só contribuem para a sua performance, mas também a distinguem como uma obra-prima da engenharia automotiva.</h1>
+            <h1 class='data'>No interior, o BMW 320i oferece um ambiente luxuoso e tecnologicamente avançado. Os materiais premium e o acabamento meticuloso criam uma atmosfera de refinamento e conforto. Recursos como o sistema de infoentretenimento iDrive, a conectividade Bluetooth e os assistentes de condução avançados garantem uma experiência de condução moderna e conveniente.</h1>
         </div>
 
         </div>
@@ -104,7 +104,7 @@ export default function ContentI320() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Em resumo, a Porsche 911 GT3 RS é a personificação da paixão da Porsche pela excelência técnica e pela emoção pura da condução esportiva. É uma máquina feita para desafiar limites e elevar os padrões do que um carro esportivo pode alcançar.</h1>
+            <h1 class='data'>O BMW 320i é mais do que apenas um sedã; é um companheiro confiável para todas as ocasiões. Seja para viagens diárias pela cidade ou para aventuras na estrada, o 320i oferece o equilíbrio perfeito entre desempenho emocionante e praticidade cotidiana. Sua combinação de luxo, tecnologia e desempenho o torna uma escolha popular entre aqueles que procuram um carro que atenda a todas as suas necessidades de condução.</h1>
         </div>
 
         </div>

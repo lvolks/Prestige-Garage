@@ -1,5 +1,6 @@
 body{
     background-image: url("https://r2.easyimg.io/08luol8yu/background.png");
+    scroll-behavior: smooth;
 }
 
 .container{

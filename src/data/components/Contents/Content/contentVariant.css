@@ -1,5 +1,6 @@
 .ev{
     margin-left: 30px;
+    scroll-behavior: smooth;
 }
 
 .carIMG{

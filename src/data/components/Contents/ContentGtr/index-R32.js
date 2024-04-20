@@ -39,7 +39,7 @@ export default function ContentR32() {
         </div>
 
         <div className='information'>
-            <h1 class='data' contenteditable="true">A Porsche 911 GT3 RS é uma máquina de alto desempenho que combina o legado lendário da marca com tecnologia de ponta e engenharia de precisão. Esta versão extrema da icônica série 911 é projetada para entregar uma experiência de condução visceral e emocionante, tanto nas ruas quanto nas pistas.</h1>
+            <h1 class='data'>O Nissan Skyline R32 é um dos carros mais emblemáticos da era dourada dos automóveis japoneses dos anos 90. Lançado em 1989, o R32 foi um marco na história da Nissan, combinando desempenho esportivo com tecnologia avançada. Equipado com o lendário motor RB26DETT twin-turbo de 2.6 litros, o R32 oferece uma combinação de potência e dirigibilidade que o tornou um favorito entre entusiastas de carros esportivos em todo o mundo.</h1>
         </div>
 
         </div>
@@ -51,7 +51,7 @@ export default function ContentR32() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Sob o capô, a GT3 RS é impulsionada por um motor de seis cilindros opostos (boxer) naturalmente aspirado, capaz de gerar uma potência impressionante. O som desse motor é uma sinfonia para os entusiastas automotivos, enquanto sua potência oferece uma aceleração intensa e uma experiência de condução verdadeiramente emocionante.</h1>
+            <h1 class='data'>O Nissan Skyline R32 apresenta um design elegante e esportivo que é instantaneamente reconhecível. Com suas linhas aerodinâmicas e faróis retráteis característicos, o R32 exala uma aura de agressividade e desempenho. Detalhes como a icônica grade dianteira em forma de "V" e as rodas de liga leve de cinco raios adicionam um toque de estilo ao visual do carro, destacando sua herança de corrida.</h1>
         </div>
 
         </div>
@@ -71,7 +71,7 @@ export default function ContentR32() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">A Porsche 911 GT3 RS não é apenas sobre potência bruta; também é afinada para oferecer um desempenho excepcional em curvas. Sua suspensão esportiva, direção precisa e aerodinâmica refinada trabalham em harmonia para garantir uma aderência excepcional e uma resposta rápida em qualquer tipo de curva.</h1>
+            <h1 class='data'>Além de seu design marcante, o Nissan Skyline R32 é conhecido por seu desempenho e manuseio excepcionais. Com sua tração nas quatro rodas avançada e suspensão multilink, o R32 oferece uma experiência de condução precisa e ágil, tornando-o um verdadeiro prazer de dirigir em estradas sinuosas ou na pista. Seu motor turbo alimentado entrega potência de forma linear, garantindo uma aceleração emocionante em todas as marchas.</h1>
         </div>
 
         </div>
@@ -83,7 +83,7 @@ export default function ContentR32() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Além disso, a Porsche 911 GT3 RS ostenta uma aparência agressiva e distinta, com elementos aerodinâmicos proeminentes e detalhes exclusivos que não só contribuem para a sua performance, mas também a distinguem como uma obra-prima da engenharia automotiva.</h1>
+            <h1 class='data'>O Nissan Skyline R32 tem um impressionante histórico de sucesso nas pistas de corrida, tanto no Japão quanto internacionalmente. Sua reputação de desempenho robusto e capacidade de modificação o tornou um favorito entre os entusiastas de corrida e de tunagem. Com uma ampla gama de peças de aftermarket disponíveis, os proprietários podem personalizar e aprimorar o desempenho do R32 para atender às suas preferências individuais, mantendo viva a cultura do tuning japonesa.</h1>
         </div>
 
         </div>
@@ -103,7 +103,7 @@ export default function ContentR32() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Em resumo, a Porsche 911 GT3 RS é a personificação da paixão da Porsche pela excelência técnica e pela emoção pura da condução esportiva. É uma máquina feita para desafiar limites e elevar os padrões do que um carro esportivo pode alcançar.</h1>
+            <h1 class='data'>Mesmo décadas após seu lançamento, o Nissan Skyline R32 continua a ser reverenciado como um clássico moderno e um ícone da cultura automotiva japonesa. Sua combinação única de estilo, desempenho e personalização fez dele um carro amado por entusiastas em todo o mundo. Com uma base de fãs dedicada e uma presença duradoura nas ruas e nas pistas, o R32 permanece como um dos carros mais influentes e adorados já produzidos pela Nissan.</h1>
         </div>
 
         </div>

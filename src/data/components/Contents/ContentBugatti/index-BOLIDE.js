@@ -39,7 +39,7 @@ export default function ContentBolide() {
         </div>
 
         <div className='information'>
-            <h1 class='data' contenteditable="true">A Porsche 911 GT3 RS é uma máquina de alto desempenho que combina o legado lendário da marca com tecnologia de ponta e engenharia de precisão. Esta versão extrema da icônica série 911 é projetada para entregar uma experiência de condução visceral e emocionante, tanto nas ruas quanto nas pistas.</h1>
+            <h1 class='data'>O Bugatti Bolide personifica a busca implacável pela velocidade extrema e desempenho inigualável. Revelado em 2020 como um estudo de design radical e tecnológico, o Bolide é uma declaração ousada da Bugatti para redefinir os limites do que é possível em um supercarro. Com sua aparência agressiva e desempenho impressionante, o Bolide está pronto para desafiar as leis da física e levar a experiência de condução a novos patamares.</h1>
         </div>
 
         </div>
@@ -51,7 +51,7 @@ export default function ContentBolide() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Sob o capô, a GT3 RS é impulsionada por um motor de seis cilindros opostos (boxer) naturalmente aspirado, capaz de gerar uma potência impressionante. O som desse motor é uma sinfonia para os entusiastas automotivos, enquanto sua potência oferece uma aceleração intensa e uma experiência de condução verdadeiramente emocionante.</h1>
+            <h1 class='data'>O Bugatti Bolide apresenta um design revolucionário que combina aerodinâmica extrema com uma estética futurista e agressiva. Cada linha e curva do carro foi meticulosamente projetada para cortar o ar com eficiência e maximizar o downforce em altas velocidades. Detalhes como as entradas de ar ampliadas, o spoiler traseiro proeminente e o difusor dianteiro destacam o compromisso da Bugatti com a excelência aerodinâmica.</h1>
         </div>
 
         </div>
@@ -71,7 +71,7 @@ export default function ContentBolide() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">A Porsche 911 GT3 RS não é apenas sobre potência bruta; também é afinada para oferecer um desempenho excepcional em curvas. Sua suspensão esportiva, direção precisa e aerodinâmica refinada trabalham em harmonia para garantir uma aderência excepcional e uma resposta rápida em qualquer tipo de curva.</h1>
+            <h1 class='data'>Equipado com o lendário motor W16 da Bugatti, o Bolide entrega uma potência impressionante que desafia a imaginação. Com uma potência estimada em mais de 1.800 cavalos de potência, o Bolide é capaz de alcançar velocidades de topo que rivalizam com os carros de corrida mais rápidos do mundo. Cada componente do motor foi otimizado para reduzir o peso e maximizar a eficiência, garantindo um desempenho sem precedentes em todas as condições.</h1>
         </div>
 
         </div>
@@ -83,7 +83,7 @@ export default function ContentBolide() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Além disso, a Porsche 911 GT3 RS ostenta uma aparência agressiva e distinta, com elementos aerodinâmicos proeminentes e detalhes exclusivos que não só contribuem para a sua performance, mas também a distinguem como uma obra-prima da engenharia automotiva.</h1>
+            <h1 class='data'>Projetado com um foco implacável na performance em pista, o Bugatti Bolide oferece um manuseio preciso e ágil que desafia as expectativas. Com sua suspensão ajustável e sistemas de controle dinâmico avançados, o Bolide é capaz de enfrentar as curvas mais desafiadoras com confiança e precisão. Cada aspecto do carro foi projetado para proporcionar uma experiência de condução emocionante e envolvente que desafia os limites do possível.</h1>
         </div>
 
         </div>
@@ -103,7 +103,7 @@ export default function ContentBolide() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Em resumo, a Porsche 911 GT3 RS é a personificação da paixão da Porsche pela excelência técnica e pela emoção pura da condução esportiva. É uma máquina feita para desafiar limites e elevar os padrões do que um carro esportivo pode alcançar.</h1>
+            <h1 class='data'>O Bugatti Bolide não é apenas um supercarro, mas sim um exercício de engenharia e tecnologia de ponta. Desde sua estrutura monocoque de fibra de carbono até seu sistema de resfriamento de alta eficiência, cada aspecto do Bolide é uma demonstração do compromisso da Bugatti com a inovação e excelência. Com seu design visionário e desempenho inigualável, o Bolide continua a empurrar os limites do que é possível em um carro de alto desempenho e a manter a Bugatti na vanguarda da indústria automotiva.</h1>
         </div>
 
         </div>

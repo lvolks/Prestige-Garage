@@ -39,7 +39,7 @@ export default function ContentZ06() {
         </div>
 
         <div className='information'>
-            <h1 class='data' contenteditable="true">A Porsche 911 GT3 RS é uma máquina de alto desempenho que combina o legado lendário da marca com tecnologia de ponta e engenharia de precisão. Esta versão extrema da icônica série 911 é projetada para entregar uma experiência de condução visceral e emocionante, tanto nas ruas quanto nas pistas.</h1>
+            <h1 class='data'>O Corvette Z06 é a personificação máxima da performance e potência na linhagem Corvette. Lançado pela primeira vez em 1963 como um pacote opcional de alto desempenho, o Z06 evoluiu ao longo das décadas para se tornar um dos modelos mais icônicos da marca. Com uma combinação de design agressivo, engenharia de alto nível e desempenho impressionante, o Z06 é uma máquina que desafia os limites da velocidade e da adrenalina.</h1>
         </div>
 
         </div>
@@ -51,7 +51,7 @@ export default function ContentZ06() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Sob o capô, a GT3 RS é impulsionada por um motor de seis cilindros opostos (boxer) naturalmente aspirado, capaz de gerar uma potência impressionante. O som desse motor é uma sinfonia para os entusiastas automotivos, enquanto sua potência oferece uma aceleração intensa e uma experiência de condução verdadeiramente emocionante.</h1>
+            <h1 class='data'>O Corvette Z06 apresenta um design agressivo e distintivo que o diferencia dos outros modelos da linha. Com sua postura baixa, rodas maiores e detalhes aerodinâmicos exclusivos, o Z06 exala uma aura de poder e performance. Detalhes como entradas de ar ampliadas, saias laterais pronunciadas e um spoiler traseiro grande não apenas aumentam a estética do carro, mas também melhoram a estabilidade em altas velocidades.</h1>
         </div>
 
         </div>
@@ -71,7 +71,7 @@ export default function ContentZ06() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">A Porsche 911 GT3 RS não é apenas sobre potência bruta; também é afinada para oferecer um desempenho excepcional em curvas. Sua suspensão esportiva, direção precisa e aerodinâmica refinada trabalham em harmonia para garantir uma aderência excepcional e uma resposta rápida em qualquer tipo de curva.</h1>
+            <h1 class='data'>Equipado com um motor V8 de alto desempenho e uma série de melhorias mecânicas, o Corvette Z06 oferece um desempenho impecável em todas as situações de condução. Com mais de 650 cavalos de potência disponíveis, o Z06 é capaz de acelerar de 0 a 100 km/h em menos de 3 segundos e atingir velocidades de topo que desafiam a gravidade. Sua transmissão manual de sete velocidades ou automática de oito velocidades garante uma condução emocionante e precisa.</h1>
         </div>
 
         </div>
@@ -83,7 +83,7 @@ export default function ContentZ06() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Além disso, a Porsche 911 GT3 RS ostenta uma aparência agressiva e distinta, com elementos aerodinâmicos proeminentes e detalhes exclusivos que não só contribuem para a sua performance, mas também a distinguem como uma obra-prima da engenharia automotiva.</h1>
+            <h1 class='data'>No interior, o Corvette Z06 oferece um ambiente esportivo e centrado no piloto, com materiais de alta qualidade e tecnologia de ponta. Os assentos esportivos oferecem suporte lateral excepcional durante a condução agressiva, enquanto o volante multifuncional coloca os controles importantes ao alcance dos dedos do motorista. Recursos como o sistema de infoentretenimento e os modos de condução ajustáveis garantem uma experiência de condução personalizada e envolvente.</h1>
         </div>
 
         </div>
@@ -103,7 +103,7 @@ export default function ContentZ06() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Em resumo, a Porsche 911 GT3 RS é a personificação da paixão da Porsche pela excelência técnica e pela emoção pura da condução esportiva. É uma máquina feita para desafiar limites e elevar os padrões do que um carro esportivo pode alcançar.</h1>
+            <h1 class='data'>O Corvette Z06 continua a ser um ícone do desempenho americano, mantendo uma base de fãs dedicada e uma reputação estelar na comunidade de entusiastas de automóveis. Com sua combinação única de design arrojado, desempenho eletrizante e valor excepcional, o Z06 permanece como um dos modelos mais emocionantes e acessíveis da linha Corvette. Sua presença nas ruas e nas pistas é um testemunho do compromisso da Chevrolet com a excelência e a inovação no mundo automotivo.</h1>
         </div>
 
         </div>

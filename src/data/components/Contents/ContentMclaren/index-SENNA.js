@@ -39,7 +39,7 @@ export default function ContentSenna() {
         </div>
 
         <div className='information'>
-            <h1 class='data' contenteditable="true">A Porsche 911 GT3 RS é uma máquina de alto desempenho que combina o legado lendário da marca com tecnologia de ponta e engenharia de precisão. Esta versão extrema da icônica série 911 é projetada para entregar uma experiência de condução visceral e emocionante, tanto nas ruas quanto nas pistas.</h1>
+            <h1 class='data'>A McLaren Senna é uma homenagem ao legado do lendário piloto brasileiro Ayrton Senna, representando o pináculo da engenharia automotiva e do desempenho sem concessões. Equipada com um motor V8 twin-turbo de 4.0 litros, a Senna produz uma potência extraordinária de mais de 800 cavalos. Com uma transmissão de dupla embreagem de sete velocidades e uma carroceria leve de fibra de carbono.</h1>
         </div>
 
         </div>
@@ -51,7 +51,7 @@ export default function ContentSenna() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Sob o capô, a GT3 RS é impulsionada por um motor de seis cilindros opostos (boxer) naturalmente aspirado, capaz de gerar uma potência impressionante. O som desse motor é uma sinfonia para os entusiastas automotivos, enquanto sua potência oferece uma aceleração intensa e uma experiência de condução verdadeiramente emocionante.</h1>
+            <h1 class='data'>O design da McLaren Senna é uma fusão de forma e função, com cada linha e detalhe sendo meticulosamente otimizado para performance máxima. Desde a dianteira agressiva até a traseira esculpida, cada elemento da Senna é projetado para maximizar a eficiência aerodinâmica e a estabilidade em altas velocidades. A asa traseira ajustável e os difusores dianteiro e traseiro contribuem para criar downforce significativo, garantindo uma aderência excepcional e uma experiência de condução sem igual.</h1>
         </div>
 
         </div>
@@ -71,7 +71,7 @@ export default function ContentSenna() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">A Porsche 911 GT3 RS não é apenas sobre potência bruta; também é afinada para oferecer um desempenho excepcional em curvas. Sua suspensão esportiva, direção precisa e aerodinâmica refinada trabalham em harmonia para garantir uma aderência excepcional e uma resposta rápida em qualquer tipo de curva.</h1>
+            <h1 class='data'>Por dentro, a McLaren Senna oferece um ambiente de pilotagem totalmente orientado para o desempenho. O cockpit minimalista coloca o motorista no centro da ação, com controles intuitivos e um volante de corrida inspirado na Fórmula 1. Os materiais leves e de alta qualidade são usados em todo o interior, reduzindo o peso e aumentando a sensação de conexão com a estrada. Cada aspecto do interior é projetado para maximizar o desempenho e oferecer uma experiência de condução imersiva.</h1>
         </div>
 
         </div>
@@ -83,7 +83,7 @@ export default function ContentSenna() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Além disso, a Porsche 911 GT3 RS ostenta uma aparência agressiva e distinta, com elementos aerodinâmicos proeminentes e detalhes exclusivos que não só contribuem para a sua performance, mas também a distinguem como uma obra-prima da engenharia automotiva.</h1>
+            <h1 class='data'>Como parte da linhagem de supercarros da McLaren, a Senna incorpora um legado de excelência nas pistas de corrida. Cada aspecto deste carro é afinado para oferecer um desempenho de classe mundial, refletindo a paixão e a dedicação dos engenheiros da McLaren. Desde sua estreia, a Senna tem sido elogiada por sua capacidade de aceleração impressionante, manejo ágil e frenagem poderosa, solidificando seu lugar como um dos supercarros mais impressionantes já produzidos.</h1>
         </div>
 
         </div>
@@ -103,7 +103,7 @@ export default function ContentSenna() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Em resumo, a Porsche 911 GT3 RS é a personificação da paixão da Porsche pela excelência técnica e pela emoção pura da condução esportiva. É uma máquina feita para desafiar limites e elevar os padrões do que um carro esportivo pode alcançar.</h1>
+            <h1 class='data'>Com sua produção altamente limitada e seu status como um dos carros mais exclusivos do mundo, a McLaren Senna é mais do que apenas um veículo; é uma obra de arte sobre rodas e um símbolo de status e prestígio. Sua exclusividade e desempenho incomparável garantem que ela permaneça como um objeto de desejo para colecionadores e entusiastas de automóveis em todo o mundo, mantendo seu valor ao longo do tempo e continuando a inspirar admiração por muitas gerações.</h1>
         </div>
 
         </div>

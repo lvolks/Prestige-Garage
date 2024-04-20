@@ -39,7 +39,7 @@ export default function ContentR34() {
         </div>
 
         <div className='information'>
-            <h1 class='data' contenteditable="true">A Porsche 911 GT3 RS é uma máquina de alto desempenho que combina o legado lendário da marca com tecnologia de ponta e engenharia de precisão. Esta versão extrema da icônica série 911 é projetada para entregar uma experiência de condução visceral e emocionante, tanto nas ruas quanto nas pistas.</h1>
+            <h1 class='data'>O Nissan Skyline R34 é uma continuação da linhagem lendária dos Skylines, elevando ainda mais o padrão de excelência estabelecido por seus antecessores. Lançado em 1999, o R34 representa o pináculo da engenharia automotiva japonesa, combinando desempenho esportivo com tecnologia avançada. Equipado com o icônico motor RB26DETT twin-turbo de 2.6 litros, o R34 oferece uma experiência de condução emocionante e um legado duradouro na cultura automotiva.</h1>
         </div>
 
         </div>
@@ -51,7 +51,7 @@ export default function ContentR34() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Sob o capô, a GT3 RS é impulsionada por um motor de seis cilindros opostos (boxer) naturalmente aspirado, capaz de gerar uma potência impressionante. O som desse motor é uma sinfonia para os entusiastas automotivos, enquanto sua potência oferece uma aceleração intensa e uma experiência de condução verdadeiramente emocionante.</h1>
+            <h1 class='data'>O Nissan Skyline R34 exibe um design agressivo e atlético que o torna instantaneamente reconhecível. Com suas linhas aerodinâmicas e proporções bem equilibradas, o R34 transmite uma sensação de força e velocidade mesmo quando está parado. Detalhes como o distintivo conjunto de faróis traseiros e a grade dianteira reforçam sua identidade visual única, destacando-o como um dos carros esportivos mais icônicos já produzidos.</h1>
         </div>
 
         </div>
@@ -71,7 +71,7 @@ export default function ContentR34() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">A Porsche 911 GT3 RS não é apenas sobre potência bruta; também é afinada para oferecer um desempenho excepcional em curvas. Sua suspensão esportiva, direção precisa e aerodinâmica refinada trabalham em harmonia para garantir uma aderência excepcional e uma resposta rápida em qualquer tipo de curva.</h1>
+            <h1 class='data'>O Nissan Skyline R34 é aclamado por seu desempenho excepcional e dirigibilidade superior. Com uma tração nas quatro rodas avançada e uma suspensão bem ajustada, o R34 oferece uma condução precisa e ágil, tornando-se um verdadeiro prazer de dirigir em qualquer situação. Seu motor turbo alimentado entrega potência de forma linear e robusta, garantindo uma aceleração rápida e uma resposta imediata ao pedal do acelerador.</h1>
         </div>
 
         </div>
@@ -83,7 +83,7 @@ export default function ContentR34() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Além disso, a Porsche 911 GT3 RS ostenta uma aparência agressiva e distinta, com elementos aerodinâmicos proeminentes e detalhes exclusivos que não só contribuem para a sua performance, mas também a distinguem como uma obra-prima da engenharia automotiva.</h1>
+            <h1 class='data'>O Nissan Skyline R34 é equipado com uma série de recursos de alta tecnologia e opções de personalização, permitindo que os proprietários adaptem o carro às suas preferências individuais. Desde sistemas avançados de controle de tração até uma variedade de opções de modificações de desempenho, o R34 oferece um nível sem precedentes de flexibilidade e adaptabilidade. Isso o torna um favorito entre entusiastas de tunagem e modificação em todo o mundo, mantendo viva a cultura do tuning japonês.</h1>
         </div>
 
         </div>
@@ -103,7 +103,7 @@ export default function ContentR34() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Em resumo, a Porsche 911 GT3 RS é a personificação da paixão da Porsche pela excelência técnica e pela emoção pura da condução esportiva. É uma máquina feita para desafiar limites e elevar os padrões do que um carro esportivo pode alcançar.</h1>
+            <h1 class='data'>O Nissan Skyline R34 continua a ser reverenciado como um ícone da cultura automotiva japonesa, mantendo uma base de fãs dedicada e uma presença forte nas comunidades de entusiastas em todo o mundo. Sua combinação de desempenho, estilo e personalização o tornou um dos carros mais amados e respeitados já produzidos pela Nissan. Com sua reputação de durabilidade, confiabilidade e desempenho inigualáveis, o R34 permanece como um símbolo da excelência automotiva japonesa e um testemunho da paixão.</h1>
         </div>
 
         </div>

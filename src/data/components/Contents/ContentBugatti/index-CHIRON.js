@@ -39,7 +39,7 @@ export default function ContentChiron() {
         </div>
 
         <div className='information'>
-            <h1 class='data' contenteditable="true">A Porsche 911 GT3 RS é uma máquina de alto desempenho que combina o legado lendário da marca com tecnologia de ponta e engenharia de precisão. Esta versão extrema da icônica série 911 é projetada para entregar uma experiência de condução visceral e emocionante, tanto nas ruas quanto nas pistas.</h1>
+            <h1 class='data'>O Bugatti Chiron é o epítome da engenharia de luxo e performance na indústria automotiva. Sucessor do icônico Veyron, o Chiron foi lançado em 2016 como uma afirmação de excelência técnica e elegância refinada. Combinando uma potência impressionante com um design sofisticado, o Chiron personifica o compromisso da Bugatti com a criação de supercarros incomparáveis.</h1>
         </div>
 
         </div>
@@ -51,7 +51,7 @@ export default function ContentChiron() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Sob o capô, a GT3 RS é impulsionada por um motor de seis cilindros opostos (boxer) naturalmente aspirado, capaz de gerar uma potência impressionante. O som desse motor é uma sinfonia para os entusiastas automotivos, enquanto sua potência oferece uma aceleração intensa e uma experiência de condução verdadeiramente emocionante.</h1>
+            <h1 class='data'>O Bugatti Chiron apresenta um design imponente e aerodinâmica avançada que o torna instantaneamente reconhecível em qualquer estrada. Cada linha e curva do carro foi meticulosamente projetada para otimizar a eficiência aerodinâmica e maximizar o desempenho em altas velocidades. Detalhes como as entradas de ar laterais, o difusor traseiro e o spoiler ativo contribuem para a estabilidade e controle excepcionais do Chiron em todas as condições de condução.</h1>
         </div>
 
         </div>
@@ -71,7 +71,7 @@ export default function ContentChiron() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">A Porsche 911 GT3 RS não é apenas sobre potência bruta; também é afinada para oferecer um desempenho excepcional em curvas. Sua suspensão esportiva, direção precisa e aerodinâmica refinada trabalham em harmonia para garantir uma aderência excepcional e uma resposta rápida em qualquer tipo de curva.</h1>
+            <h1 class='data'>Equipado com um motor W16 quad-turbo de 8.0 litros, o Bugatti Chiron oferece uma potência inigualável que redefine os limites do desempenho automotivo. Com mais de 1.500 cavalos de potência e um torque monstruoso, o Chiron é capaz de acelerar de 0 a 100 km/h em menos de 2,5 segundos e atingir uma velocidade máxima limitada eletronicamente de 420 km/h. Essa combinação de potência bruta e tecnologia de ponta coloca o Chiron em um patamar superior entre os supercarros mais exclusivos do mundo.</h1>
         </div>
 
         </div>
@@ -83,7 +83,7 @@ export default function ContentChiron() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Além disso, a Porsche 911 GT3 RS ostenta uma aparência agressiva e distinta, com elementos aerodinâmicos proeminentes e detalhes exclusivos que não só contribuem para a sua performance, mas também a distinguem como uma obra-prima da engenharia automotiva.</h1>
+            <h1 class='data'>No interior, o Bugatti Chiron oferece um ambiente de luxo e conforto incomparáveis, onde cada detalhe foi cuidadosamente projetado para atender às necessidades dos motoristas mais exigentes. Materiais de alta qualidade, como couro macio, fibra de carbono e metal escovado, são habilmente trabalhados para criar uma atmosfera de sofisticação e exclusividade. Recursos de última geração, como sistemas de entretenimento avançados e controles intuitivos, garantem uma experiência de condução indulgente e inesquecível.</h1>
         </div>
 
         </div>
@@ -103,7 +103,7 @@ export default function ContentChiron() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Em resumo, a Porsche 911 GT3 RS é a personificação da paixão da Porsche pela excelência técnica e pela emoção pura da condução esportiva. É uma máquina feita para desafiar limites e elevar os padrões do que um carro esportivo pode alcançar.</h1>
+            <h1 class='data'>O Bugatti Chiron é mais do que apenas um carro; é um símbolo de excelência automotiva e um testemunho do compromisso da Bugatti com a inovação e o prestígio. Com sua combinação de desempenho fenomenal, design deslumbrante e artesanato meticuloso, o Chiron continua a inspirar admiração e reverência em todo o mundo. Como o pináculo da engenharia automotiva, o Chiron permanece como um dos supercarros mais desejados e admirados já produzidos pela humanidade.</h1>
         </div>
 
         </div>

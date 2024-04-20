@@ -39,7 +39,7 @@ export default function ContentRS6() {
         </div>
 
         <div className='information'>
-            <h1 class='data' contenteditable="true">Como o próprio nome indica, o Audi RS7 Sportback tem como base o A7 Sportback. Logo, um dos destaques é a carroceria no formato cupê com quatro portas. Ele se sobressai frente aos demais pelo caimento suave do teto até a traseira, formando praticamente dois-volumes ao invés de três.</h1>
+            <h1 class='data'>O Audi RS6 é uma obra-prima de desempenho e utilidade, combinando a potência e dinâmica de um supercarro com a praticidade de uma perua de luxo. Desde seu lançamento, o RS6 tem sido aclamado por sua capacidade de oferecer uma experiência de condução emocionante e versátil, adaptando-se perfeitamente a qualquer situação, desde viagens familiares até momentos de pura adrenalina. Também conhecido omo um dos modelos mais emblemáticos da linha RS da Audi.</h1>
         </div>
 
         </div>
@@ -51,7 +51,7 @@ export default function ContentRS6() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">MSDIFOSDHJAFOUSDHFUDISAHFSADUIFHSDAFIUDHSAFUISDAHFDISUAHFSADUIFHMSDIFOSDHJAFOUSDHFUDISAHFSADUIFHSDAFIUDHSAFUISDAHFDISUAHFSADUIFHMSDIFOSDHJAFOUSDHFUDISAHFSADUIFHSDAFIUDHSAFUISDAHFDISUAHFSADUIFHMSDIFOSDHJAFOUSDHFUDISAHFSADUIFHSDAFIUDHSAFUISDAHFDISUAHFSADUIFHMSDIFOSDHJAFOUSDHFUDISAHFSADUIFHSDAFIUDHSAFUISDAHFDISUAHFSADUIFH</h1>
+            <h1 class='data'>O Audi RS6 apresenta um design agressivo e distintivo que o diferencia dos demais. Com sua postura musculosa, linhas aerodinâmicas e detalhes exclusivos, o RS6 emana uma presença poderosa e atlética. Elementos como a grade dianteira em forma de colmeia, os para-choques dianteiros e traseiros proeminentes e as saídas de escape ovais enfatizam a natureza esportiva e agressiva do RS6.</h1>
         </div>
 
         </div>
@@ -71,7 +71,7 @@ export default function ContentRS6() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">A Porsche 911 GT3 RS não é apenas sobre potência bruta; também é afinada para oferecer um desempenho excepcional em curvas. Sua suspensão esportiva, direção precisa e aerodinâmica refinada trabalham em harmonia para garantir uma aderência excepcional e uma resposta rápida em qualquer tipo de curva.</h1>
+            <h1 class='data'>Equipado com um motor V8 biturbo de alta performance, o Audi RS6 oferece um desempenho imponente que desafia os limites da velocidade e da agilidade. Com mais de 600 cavalos de potência e um torque abundante, o RS6 é capaz de acelerar de 0 a 100 km/h em menos de 4 segundos, proporcionando uma experiência de condução emocionante e visceral. Sua tração integral quattro e suspensão esportiva adaptativa garantem uma dirigibilidade precisa e confiável em uma variedade de condições de estrada.</h1>
         </div>
 
         </div>
@@ -83,7 +83,7 @@ export default function ContentRS6() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Além disso, a Porsche 911 GT3 RS ostenta uma aparência agressiva e distinta, com elementos aerodinâmicos proeminentes e detalhes exclusivos que não só contribuem para a sua performance, mas também a distinguem como uma obra-prima da engenharia automotiva.</h1>
+            <h1 class='data'>No interior, o Audi RS6 oferece um ambiente luxuoso e tecnologicamente avançado, onde cada detalhe foi cuidadosamente projetado para proporcionar conforto e conveniência. Materiais premium, como couro Valcona, alumínio escovado e fibra de carbono, criam uma atmosfera de sofisticação e requinte. Recursos como o sistema de infoentretenimento MMI touch, o Audi virtual cockpit e os assistentes de condução semiautônoma garantem uma experiência de condução conectada e indulgente.</h1>
         </div>
 
         </div>
@@ -103,7 +103,7 @@ export default function ContentRS6() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Em resumo, a Porsche 911 GT3 RS é a personificação da paixão da Porsche pela excelência técnica e pela emoção pura da condução esportiva. É uma máquina feita para desafiar limites e elevar os padrões do que um carro esportivo pode alcançar.</h1>
+            <h1 class='data'>O Audi RS6 é mais do que apenas uma perua; é um ícone de desempenho familiar que desafia as convenções e redefine o que é possível em um veículo de passeio. Sua combinação de potência bruta, praticidade inteligente e luxo refinado o torna um companheiro ideal para qualquer aventura, seja no dia a dia ou em viagens emocionantes. Como uma manifestação do compromisso da Audi com a excelência e a inovação, o RS6 continua a ser um dos modelos mais cobiçados e admirados em sua classe.</h1>
         </div>
 
         </div>

@@ -1,12 +1,12 @@
 import Header from '../../../../components/Header/index'
 import Footer from '../../../../components/Footer/index'
-import ContentValour from '../../../../components/Contents/ContentAstonmartin/index-VALOUR'
+import ContentDb11 from '../../../../components/Contents/ContentAstonmartin/index-DB11'
 
-export default function Valour() {
+export default function Db11() {
     return (
         <div>
             <Header />
-            <ContentValour />
+            <ContentDb11 />
             <Footer />
         </div>
     )

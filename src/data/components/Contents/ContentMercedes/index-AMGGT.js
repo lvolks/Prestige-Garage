@@ -39,7 +39,7 @@ export default function ContentAmggt() {
         </div>
 
         <div className='information'>
-            <h1 class='data' contenteditable="true">A Porsche 911 GT3 RS é uma máquina de alto desempenho que combina o legado lendário da marca com tecnologia de ponta e engenharia de precisão. Esta versão extrema da icônica série 911 é projetada para entregar uma experiência de condução visceral e emocionante, tanto nas ruas quanto nas pistas.</h1>
+            <h1 class='data'>O Mercedes-AMG GT é um supercarro que oferece uma experiência de condução emocionante e visceral. Equipado com um motor V8 biturbo de 4.0 litros, ele produz uma potência impressionante que varia de cerca de 469 a 730 cavalos, dependendo da versão. Com sua transmissão de dupla embreagem e sete velocidades, o AMG GT oferece trocas de marcha rápidas e precisas, garantindo uma aceleração poderosa e uma resposta instantânea ao toque do acelerador.</h1>
         </div>
 
         </div>
@@ -51,7 +51,7 @@ export default function ContentAmggt() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Sob o capô, a GT3 RS é impulsionada por um motor de seis cilindros opostos (boxer) naturalmente aspirado, capaz de gerar uma potência impressionante. O som desse motor é uma sinfonia para os entusiastas automotivos, enquanto sua potência oferece uma aceleração intensa e uma experiência de condução verdadeiramente emocionante.</h1>
+            <h1 class='data'>O design do Mercedes-AMG GT é uma combinação de elegância e agressividade, com linhas fluidas e musculosas que capturam a essência de um verdadeiro supercarro. Seu capô longo, linha de cintura baixa e traseira larga conferem ao AMG GT uma presença imponente na estrada. Detalhes como as entradas de ar proeminentes, rodas de liga leve exclusivas e escapamentos duplos enfatizam seu caráter esportivo e seu pedigree de alta performance.</h1>
         </div>
 
         </div>
@@ -71,7 +71,7 @@ export default function ContentAmggt() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">A Porsche 911 GT3 RS não é apenas sobre potência bruta; também é afinada para oferecer um desempenho excepcional em curvas. Sua suspensão esportiva, direção precisa e aerodinâmica refinada trabalham em harmonia para garantir uma aderência excepcional e uma resposta rápida em qualquer tipo de curva.</h1>
+            <h1 class='data'>Por dentro, o Mercedes-AMG GT oferece um ambiente de luxo e tecnologia de última geração. O cockpit é ergonomicamente projetado para colocar o motorista no centro da ação, com materiais de alta qualidade e acabamentos refinados por toda parte. O sistema de infotainment COMAND oferece uma variedade de recursos de entretenimento e conectividade, enquanto os sistemas de assistência ao motorista garantem uma experiência de condução segura e tranquila.</h1>
         </div>
 
         </div>
@@ -83,7 +83,7 @@ export default function ContentAmggt() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Além disso, a Porsche 911 GT3 RS ostenta uma aparência agressiva e distinta, com elementos aerodinâmicos proeminentes e detalhes exclusivos que não só contribuem para a sua performance, mas também a distinguem como uma obra-prima da engenharia automotiva.</h1>
+            <h1 class='data'>Como parte da família AMG da Mercedes-Benz, o AMG GT herda um legado de performance e paixão pela condução. Cada aspecto deste supercarro é cuidadosamente projetado e afinado pelos engenheiros da AMG para oferecer uma experiência de condução inigualável. Desde seu lançamento, o AMG GT tem sido amplamente elogiado por sua combinação de desempenho de classe mundial, estilo marcante e artesanato meticuloso.</h1>
         </div>
 
         </div>
@@ -103,7 +103,7 @@ export default function ContentAmggt() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Em resumo, a Porsche 911 GT3 RS é a personificação da paixão da Porsche pela excelência técnica e pela emoção pura da condução esportiva. É uma máquina feita para desafiar limites e elevar os padrões do que um carro esportivo pode alcançar.</h1>
+            <h1 class='data'>Com sua produção limitada e seu status como um dos carros esportivos mais desejados do mundo, o Mercedes-AMG GT é mais do que apenas um veículo; é uma declaração de estilo de vida e uma expressão de poder e prestígio. Sua exclusividade e desempenho impressionante garantem que ele permaneça como um objeto de desejo para colecionadores e entusiastas de automóveis em todo o mundo, mantendo seu valor ao longo do tempo e continuando a inspirar admiração por muitas gerações.</h1>
         </div>
 
         </div>

@@ -39,7 +39,7 @@ export default function ContentAmgone() {
         </div>
 
         <div className='information'>
-            <h1 class='data' contenteditable="true">A Porsche 911 GT3 RS é uma máquina de alto desempenho que combina o legado lendário da marca com tecnologia de ponta e engenharia de precisão. Esta versão extrema da icônica série 911 é projetada para entregar uma experiência de condução visceral e emocionante, tanto nas ruas quanto nas pistas.</h1>
+            <h1 class='data'>O Mercedes-AMG One é um hipercarro que redefine os limites da tecnologia automotiva. Equipado com um sistema de propulsão híbrido derivado da Fórmula 1, este carro de alto desempenho combina um motor V6 turbo de 1.6 litros com quatro motores elétricos para produzir mais de 1.000 cavalos de potência. Combinando o poder de um carro de corrida com a praticidade de um supercarro de rua.</h1>
         </div>
 
         </div>
@@ -51,7 +51,7 @@ export default function ContentAmgone() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Sob o capô, a GT3 RS é impulsionada por um motor de seis cilindros opostos (boxer) naturalmente aspirado, capaz de gerar uma potência impressionante. O som desse motor é uma sinfonia para os entusiastas automotivos, enquanto sua potência oferece uma aceleração intensa e uma experiência de condução verdadeiramente emocionante.</h1>
+            <h1 class='data'>O design do Mercedes-AMG One é uma obra de arte em movimento, com linhas fluidas e aerodinâmicas que refletem sua natureza de alta performance. Seu corpo esculpido é otimizado para maximizar a eficiência aerodinâmica e a estabilidade em altas velocidades, enquanto os detalhes de estilo exclusivos, como as entradas de ar proeminentes e o difusor traseiro agressivo, enfatizam sua pedigree de corrida. Cada elemento do AMG One é projetado para impressionar visualmente e melhorar o desempenho dinâmico do carro.</h1>
         </div>
 
         </div>
@@ -71,7 +71,7 @@ export default function ContentAmgone() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">A Porsche 911 GT3 RS não é apenas sobre potência bruta; também é afinada para oferecer um desempenho excepcional em curvas. Sua suspensão esportiva, direção precisa e aerodinâmica refinada trabalham em harmonia para garantir uma aderência excepcional e uma resposta rápida em qualquer tipo de curva.</h1>
+            <h1 class='data'>Por dentro, o Mercedes-AMG One oferece uma experiência de condução futurista e luxuosa. O cockpit é projetado para colocar o motorista no controle, com um volante de corrida inspirado na Fórmula 1 e uma tela digital personalizável que fornece acesso a uma variedade de informações de desempenho. O sistema de infotainment oferece conectividade avançada, enquanto os sistemas de assistência ao motorista garantem uma condução segura e tranquila, mesmo em condições extremas.</h1>
         </div>
 
         </div>
@@ -83,7 +83,7 @@ export default function ContentAmgone() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Além disso, a Porsche 911 GT3 RS ostenta uma aparência agressiva e distinta, com elementos aerodinâmicos proeminentes e detalhes exclusivos que não só contribuem para a sua performance, mas também a distinguem como uma obra-prima da engenharia automotiva.</h1>
+            <h1 class='data'>Como um verdadeiro descendente da Fórmula 1, o Mercedes-AMG One carrega consigo um legado de competição e inovação. Cada aspecto deste hipercarro é projetado e afinado para oferecer um desempenho de classe mundial, refletindo a paixão e a dedicação dos engenheiros da AMG. Desde sua concepção, o AMG One tem sido amplamente elogiado por sua tecnologia avançada e desempenho impressionante, estabelecendo novos padrões de excelência na indústria automotiva.</h1>
         </div>
 
         </div>
@@ -103,7 +103,7 @@ export default function ContentAmgone() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Em resumo, a Porsche 911 GT3 RS é a personificação da paixão da Porsche pela excelência técnica e pela emoção pura da condução esportiva. É uma máquina feita para desafiar limites e elevar os padrões do que um carro esportivo pode alcançar.</h1>
+            <h1 class='data'>Com sua produção altamente limitada e seu status como um dos carros mais exclusivos do mundo, o Mercedes-AMG One é mais do que apenas um veículo; é um símbolo de status e prestígio. Sua exclusividade e desempenho incomparável garantem que ele permaneça como um objeto de desejo para colecionadores e entusiastas de automóveis em todo o mundo, mantendo seu valor ao longo do tempo e continuando a inspirar admiração por muitas gerações.</h1>
         </div>
 
         </div>

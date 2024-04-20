@@ -39,7 +39,7 @@ export default function ContentP1() {
         </div>
 
         <div className='information'>
-            <h1 class='data' contenteditable="true">A Porsche 911 GT3 RS é uma máquina de alto desempenho que combina o legado lendário da marca com tecnologia de ponta e engenharia de precisão. Esta versão extrema da icônica série 911 é projetada para entregar uma experiência de condução visceral e emocionante, tanto nas ruas quanto nas pistas.</h1>
+            <h1 class='data'>A McLaren P1 é um marco na história dos supercarros, representando o ápice da engenharia automotiva e da tecnologia de ponta. Equipada com um sistema híbrido de propulsão que combina um motor V8 biturbo de 3.8 litros com um motor elétrico, a P1 produz uma potência combinada de mais de 900 cavalos. Essa impressionante potência é entregue de forma instantânea, proporcionando uma aceleração vertiginosa e uma experiência de condução verdadeiramente emocionante.</h1>
         </div>
 
         </div>
@@ -51,7 +51,7 @@ export default function ContentP1() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Sob o capô, a GT3 RS é impulsionada por um motor de seis cilindros opostos (boxer) naturalmente aspirado, capaz de gerar uma potência impressionante. O som desse motor é uma sinfonia para os entusiastas automotivos, enquanto sua potência oferece uma aceleração intensa e uma experiência de condução verdadeiramente emocionante.</h1>
+            <h1 class='data'>O design da McLaren P1 é uma sinfonia de formas aerodinâmicas e linhas futuristas. Cada curva e detalhe são meticulosamente trabalhados para otimizar o fluxo de ar e maximizar a eficiência aerodinâmica. O uso extensivo de fibra de carbono não apenas reduz o peso, mas também confere à P1 uma presença imponente na estrada. As portas de abertura para cima e o aerofólio ajustável destacam sua natureza de hipercarro de alto desempenho.</h1>
         </div>
 
         </div>
@@ -71,7 +71,7 @@ export default function ContentP1() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">A Porsche 911 GT3 RS não é apenas sobre potência bruta; também é afinada para oferecer um desempenho excepcional em curvas. Sua suspensão esportiva, direção precisa e aerodinâmica refinada trabalham em harmonia para garantir uma aderência excepcional e uma resposta rápida em qualquer tipo de curva.</h1>
+            <h1 class='data'>Por dentro, a McLaren P1 oferece um ambiente de luxo e tecnologia avançada. O cockpit é projetado para colocar o motorista no centro da ação, com uma disposição minimalista e controles intuitivos. Os materiais de alta qualidade e os acabamentos refinados criam uma atmosfera de elegância e sofisticação. O sistema de infotainment oferece acesso a uma variedade de recursos de entretenimento e conectividade, garantindo uma experiência de condução moderna e envolvente.</h1>
         </div>
 
         </div>
@@ -83,7 +83,7 @@ export default function ContentP1() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Além disso, a Porsche 911 GT3 RS ostenta uma aparência agressiva e distinta, com elementos aerodinâmicos proeminentes e detalhes exclusivos que não só contribuem para a sua performance, mas também a distinguem como uma obra-prima da engenharia automotiva.</h1>
+            <h1 class='data'>Como herdeira do legado da McLaren nas corridas de automóveis, a P1 é projetada para oferecer um desempenho excepcional tanto na estrada quanto na pista. Cada aspecto deste hipercarro é afinado para proporcionar uma experiência de condução dinâmica e envolvente. Desde sua estreia, a McLaren P1 tem sido reconhecida por sua impressionante capacidade de aceleração, manejo ágil e frenagem potente, solidificando seu lugar como um dos supercarros mais emblemáticos já produzidos.</h1>
         </div>
 
         </div>
@@ -103,7 +103,7 @@ export default function ContentP1() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Em resumo, a Porsche 911 GT3 RS é a personificação da paixão da Porsche pela excelência técnica e pela emoção pura da condução esportiva. É uma máquina feita para desafiar limites e elevar os padrões do que um carro esportivo pode alcançar.</h1>
+            <h1 class='data'>Com sua produção altamente limitada e seu status como um dos hipercarros mais exclusivos do mundo, a McLaren P1 é mais do que apenas um veículo; é uma obra de arte sobre rodas e um símbolo de status e prestígio. Sua exclusividade e desempenho incomparável garantem que ela permaneça como um objeto de desejo para colecionadores e entusiastas de automóveis em todo o mundo, mantendo seu valor ao longo do tempo e continuando a inspirar admiração por muitas gerações.</h1>
         </div>
 
         </div>

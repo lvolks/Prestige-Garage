@@ -39,7 +39,7 @@ export default function ContentR33() {
         </div>
 
         <div className='information'>
-            <h1 class='data' contenteditable="true">A Porsche 911 GT3 RS é uma máquina de alto desempenho que combina o legado lendário da marca com tecnologia de ponta e engenharia de precisão. Esta versão extrema da icônica série 911 é projetada para entregar uma experiência de condução visceral e emocionante, tanto nas ruas quanto nas pistas.</h1>
+            <h1 class='data'>O Nissan Skyline R33 é a evolução de um ícone automotivo japonês, continuando a tradição de excelência estabelecida por seus predecessores. Lançado em 1993, o R33 incorpora uma série de melhorias em relação ao R32, mantendo-se fiel à essência esportiva e de alta performance da linha Skyline. Equipado com uma variedade de motores, incluindo o potente RB26DETT twin-turbo de 2.6 litros, o R33 oferece uma experiência de condução emocionante.</h1>
         </div>
 
         </div>
@@ -51,7 +51,7 @@ export default function ContentR33() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Sob o capô, a GT3 RS é impulsionada por um motor de seis cilindros opostos (boxer) naturalmente aspirado, capaz de gerar uma potência impressionante. O som desse motor é uma sinfonia para os entusiastas automotivos, enquanto sua potência oferece uma aceleração intensa e uma experiência de condução verdadeiramente emocionante.</h1>
+            <h1 class='data'>O Nissan Skyline R33 apresenta um design mais refinado e aerodinâmico em comparação com seu antecessor, incorporando linhas suaves e contornos fluidos. As proporções elegantes e os detalhes distintos, como os faróis redondos e a grade dianteira mais pronunciada, dão ao R33 uma presença imponente e atemporal. Além disso, suas dimensões ligeiramente maiores proporcionam um interior mais espaçoso e confortável, sem comprometer o desempenho dinâmico.</h1>
         </div>
 
         </div>
@@ -71,7 +71,7 @@ export default function ContentR33() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">A Porsche 911 GT3 RS não é apenas sobre potência bruta; também é afinada para oferecer um desempenho excepcional em curvas. Sua suspensão esportiva, direção precisa e aerodinâmica refinada trabalham em harmonia para garantir uma aderência excepcional e uma resposta rápida em qualquer tipo de curva.</h1>
+            <h1 class='data'>Com melhorias significativas na suspensão e na aerodinâmica, o Nissan Skyline R33 oferece um desempenho aprimorado e uma dirigibilidade aperfeiçoada em relação ao seu antecessor. Seja em estradas sinuosas ou na pista de corrida, o R33 demonstra uma habilidade excepcional para enfrentar curvas com confiança e proporcionar uma experiência de condução emocionante. Seu motor turbo alimentado fornece potência de forma suave e responsiva, garantindo um desempenho emocionante em todas as situações.</h1>
         </div>
 
         </div>
@@ -83,7 +83,7 @@ export default function ContentR33() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Além disso, a Porsche 911 GT3 RS ostenta uma aparência agressiva e distinta, com elementos aerodinâmicos proeminentes e detalhes exclusivos que não só contribuem para a sua performance, mas também a distinguem como uma obra-prima da engenharia automotiva.</h1>
+            <h1 class='data'>O Nissan Skyline R33 mantém viva a tradição de sucesso nas pistas de corrida estabelecida por seus antecessores. Sua plataforma robusta e tecnologia avançada tornaram-no um competidor formidável em eventos automobilísticos em todo o mundo. Além disso, sua eletrônica sofisticada e sistemas de controle de tração contribuem para uma condução mais segura e uma experiência de direção mais envolvente, mantendo o R33 na vanguarda da tecnologia automotiva da época.</h1>
         </div>
 
         </div>
@@ -103,7 +103,7 @@ export default function ContentR33() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Em resumo, a Porsche 911 GT3 RS é a personificação da paixão da Porsche pela excelência técnica e pela emoção pura da condução esportiva. É uma máquina feita para desafiar limites e elevar os padrões do que um carro esportivo pode alcançar.</h1>
+            <h1 class='data'>O Nissan Skyline R33 continua a ser reverenciado como um ícone da cultura automotiva japonesa, mantendo uma base de fãs dedicada e uma presença forte nas comunidades de entusiastas em todo o mundo. Seu legado de desempenho, estilo e inovação o tornou um dos carros mais adorados e respeitados já produzidos pela Nissan. Com sua combinação única de história, habilidade técnica e apelo emocional, o R33 permanece como um símbolo duradouro da excelência automotiva japonesa.</h1>
         </div>
 
         </div>

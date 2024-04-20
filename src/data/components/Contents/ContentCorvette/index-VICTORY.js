@@ -39,7 +39,7 @@ export default function ContentVictory() {
         </div>
 
         <div className='information'>
-            <h1 class='data' contenteditable="true">A Porsche 911 GT3 RS é uma máquina de alto desempenho que combina o legado lendário da marca com tecnologia de ponta e engenharia de precisão. Esta versão extrema da icônica série 911 é projetada para entregar uma experiência de condução visceral e emocionante, tanto nas ruas quanto nas pistas.</h1>
+            <h1 class='data'>O Corvette C6 Victory Edition é uma homenagem à rica tradição de desempenho e inovação da Chevrolet. Lançado em 2008, este modelo especial foi criado para comemorar a vitória da equipe Corvette Racing na categoria GT1 das 24 Horas de Le Mans em 2007. Com sua estética distinta e desempenho aprimorado, o C6 Victory Edition captura a essência do icônico esportivo americano.</h1>
         </div>
 
         </div>
@@ -51,7 +51,7 @@ export default function ContentVictory() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Sob o capô, a GT3 RS é impulsionada por um motor de seis cilindros opostos (boxer) naturalmente aspirado, capaz de gerar uma potência impressionante. O som desse motor é uma sinfonia para os entusiastas automotivos, enquanto sua potência oferece uma aceleração intensa e uma experiência de condução verdadeiramente emocionante.</h1>
+            <h1 class='data'>O Corvette C6 Victory Edition apresenta um design exclusivo que reflete sua natureza esportiva e comemorativa. Disponível em uma paleta de cores específica, incluindo branco Arctic White com detalhes em prata e azul, o carro exala uma aura de elegância e agressividade. Detalhes como as faixas de corrida, emblemas especiais e rodas exclusivas adicionam um toque de distinção ao visual do C6 Victory Edition.</h1>
         </div>
 
         </div>
@@ -71,7 +71,7 @@ export default function ContentVictory() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">A Porsche 911 GT3 RS não é apenas sobre potência bruta; também é afinada para oferecer um desempenho excepcional em curvas. Sua suspensão esportiva, direção precisa e aerodinâmica refinada trabalham em harmonia para garantir uma aderência excepcional e uma resposta rápida em qualquer tipo de curva.</h1>
+            <h1 class='data'>Sob o capô, o Corvette C6 Victory Edition mantém o poderoso motor V8 de 6.2 litros encontrado em outros modelos da linha Corvette, mas com ajustes especiais para um desempenho aprimorado. Com mais de 400 cavalos de potência disponíveis, este esportivo americano oferece uma aceleração emocionante e uma experiência de direção dinâmica que satisfaz até mesmo os entusiastas mais exigentes.</h1>
         </div>
 
         </div>
@@ -83,7 +83,7 @@ export default function ContentVictory() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Além disso, a Porsche 911 GT3 RS ostenta uma aparência agressiva e distinta, com elementos aerodinâmicos proeminentes e detalhes exclusivos que não só contribuem para a sua performance, mas também a distinguem como uma obra-prima da engenharia automotiva.</h1>
+            <h1 class='data'>No interior, o Corvette C6 Victory Edition oferece um ambiente personalizado e confortável, onde os detalhes especiais celebram a vitória histórica da equipe Corvette Racing. Os assentos esportivos e o acabamento premium proporcionam suporte e conforto durante viagens de alta velocidade, enquanto os toques de design exclusivos, como o emblema de edição especial no painel, lembram os feitos lendários alcançados nas pistas de corrida.</h1>
         </div>
 
         </div>
@@ -103,7 +103,7 @@ export default function ContentVictory() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Em resumo, a Porsche 911 GT3 RS é a personificação da paixão da Porsche pela excelência técnica e pela emoção pura da condução esportiva. É uma máquina feita para desafiar limites e elevar os padrões do que um carro esportivo pode alcançar.</h1>
+            <h1 class='data'>O Corvette C6 Victory Edition é mais do que apenas um carro esportivo; é uma peça de história automotiva americana. Com sua produção limitada e seu status como uma homenagem à vitória da equipe Corvette Racing em Le Mans, esta edição especial tem um valor especial para colecionadores e entusiastas de carros. Seu design distinto, desempenho emocionante e exclusividade garantem que o C6 Victory Edition seja lembrado como um dos Corvettes mais especiais já produzidos pela Chevrolet.</h1>
         </div>
 
         </div>

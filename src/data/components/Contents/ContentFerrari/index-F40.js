@@ -39,7 +39,7 @@ export default function ContentF40() {
         </div>
 
         <div className='information'>
-            <h1 class='data' contenteditable="true">A Porsche 911 GT3 RS é uma máquina de alto desempenho que combina o legado lendário da marca com tecnologia de ponta e engenharia de precisão. Esta versão extrema da icônica série 911 é projetada para entregar uma experiência de condução visceral e emocionante, tanto nas ruas quanto nas pistas.</h1>
+            <h1 class='data'>A Ferrari F40 é uma lenda viva no mundo dos supercarros, representando o pináculo da engenharia automotiva italiana da década de 1980. Lançada em 1987 para celebrar o 40º aniversário da Ferrari, a F40 foi concebida como o carro de rua mais rápido e potente da época. Com seu design distinto, desempenho arrebatador e aura de exclusividade, a F40 se tornou um ícone da velocidade e do prestígio automotivo.</h1>
         </div>
 
         </div>
@@ -51,7 +51,7 @@ export default function ContentF40() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Sob o capô, a GT3 RS é impulsionada por um motor de seis cilindros opostos (boxer) naturalmente aspirado, capaz de gerar uma potência impressionante. O som desse motor é uma sinfonia para os entusiastas automotivos, enquanto sua potência oferece uma aceleração intensa e uma experiência de condução verdadeiramente emocionante.</h1>
+            <h1 class='data'>Equipada com um motor V8 twin-turbo de 2.9 litros, a Ferrari F40 entrega uma potência impressionante de mais de 470 cavalos. Com um peso leve e aerodinâmica avançada, o carro é capaz de acelerar de 0 a 100 km/h em menos de 4 segundos e atingir uma velocidade máxima de cerca de 320 km/h, uma conquista notável para a época. Cada aspecto do projeto da F40 foi otimizado para proporcionar uma experiência de condução emocionante e inesquecível.</h1>
         </div>
 
         </div>
@@ -71,7 +71,7 @@ export default function ContentF40() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">A Porsche 911 GT3 RS não é apenas sobre potência bruta; também é afinada para oferecer um desempenho excepcional em curvas. Sua suspensão esportiva, direção precisa e aerodinâmica refinada trabalham em harmonia para garantir uma aderência excepcional e uma resposta rápida em qualquer tipo de curva.</h1>
+            <h1 class='data'>O design da Ferrari F40 é uma expressão de pura agressividade e funcionalidade. Com sua carroceria aerodinâmica em fibra de carbono e seu interior espartano, a F40 transmite uma aura de desempenho e precisão. Detalhes como as entradas de ar laterais, os faróis retráteis e o grande spoiler traseiro não apenas contribuem para a estética ousada do carro, mas também melhoram sua estabilidade em altas velocidades.</h1>
         </div>
 
         </div>
@@ -83,7 +83,7 @@ export default function ContentF40() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Além disso, a Porsche 911 GT3 RS ostenta uma aparência agressiva e distinta, com elementos aerodinâmicos proeminentes e detalhes exclusivos que não só contribuem para a sua performance, mas também a distinguem como uma obra-prima da engenharia automotiva.</h1>
+            <h1 class='data'>Inspirada pela lendária herança da Ferrari nas pistas de corrida, a F40 foi projetada para oferecer um desempenho comparável ao dos carros de corrida da época. Seu chassi rígido, suspensão ajustável e sistema de freios de alto desempenho garantem uma condução ágil e responsiva, permitindo que os motoristas explorem os limites do carro com confiança e controle.</h1>
         </div>
 
         </div>
@@ -103,7 +103,7 @@ export default function ContentF40() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Em resumo, a Porsche 911 GT3 RS é a personificação da paixão da Porsche pela excelência técnica e pela emoção pura da condução esportiva. É uma máquina feita para desafiar limites e elevar os padrões do que um carro esportivo pode alcançar.</h1>
+            <h1 class='data'>Ao longo das décadas, a Ferrari F40 manteve seu status como um dos supercarros mais cobiçados e respeitados já produzidos. Sua produção limitada e sua reputação lendária garantem que ela continue a ser um objeto de desejo para colecionadores e entusiastas de automóveis em todo o mundo. Com sua combinação de beleza, desempenho e exclusividade, a F40 permanece como um testemunho do compromisso da Ferrari com a excelência automotiva e um símbolo eterno da paixão pela velocidade.</h1>
         </div>
 
         </div>

@@ -39,7 +39,7 @@ export default function ContentCarreragt() {
         </div>
 
         <div className='information'>
-            <h1 class='data' contenteditable="true">A Porsche 911 GT3 RS é uma máquina de alto desempenho que combina o legado lendário da marca com tecnologia de ponta e engenharia de precisão. Esta versão extrema da icônica série 911 é projetada para entregar uma experiência de condução visceral e emocionante, tanto nas ruas quanto nas pistas.</h1>
+            <h1 class='data'>O Porsche Carrera GT é aclamado por seu desempenho excepcional, impulsionado por um motor V10 de 5.7 litros de aspiração natural que produz uma impressionante potência de mais de 600 cavalos. Esta obra-prima da engenharia automotiva atinge uma velocidade máxima de mais de 330 km/h e acelera de 0 a 100 km/h em pouco mais de 3 segundos. Sua transmissão manual de seis velocidades oferece trocas precisas e uma experiência de condução envolvente.</h1>
         </div>
 
         </div>
@@ -51,7 +51,7 @@ export default function ContentCarreragt() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Sob o capô, a GT3 RS é impulsionada por um motor de seis cilindros opostos (boxer) naturalmente aspirado, capaz de gerar uma potência impressionante. O som desse motor é uma sinfonia para os entusiastas automotivos, enquanto sua potência oferece uma aceleração intensa e uma experiência de condução verdadeiramente emocionante.</h1>
+            <h1 class='data'>O design do Carrera GT é uma fusão de elegância e agressividade, com linhas aerodinâmicas fluidas que não apenas proporcionam uma estética deslumbrante, mas também garantem estabilidade em altas velocidades. Sua carroceria é construída em fibra de carbono, proporcionando leveza e rigidez, enquanto o chassi de alumínio contribui para o desempenho ágil e responsivo do veículo. Cada detalhe, desde os faróis distintos até as entradas de ar esculpidas, é cuidadosamente projetado para otimizar o desempenho.</h1>
         </div>
 
         </div>
@@ -71,7 +71,7 @@ export default function ContentCarreragt() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">A Porsche 911 GT3 RS não é apenas sobre potência bruta; também é afinada para oferecer um desempenho excepcional em curvas. Sua suspensão esportiva, direção precisa e aerodinâmica refinada trabalham em harmonia para garantir uma aderência excepcional e uma resposta rápida em qualquer tipo de curva.</h1>
+            <h1 class='data'>Ao entrar no cockpit do Carrera GT, o motorista é recebido por um ambiente projetado para proporcionar uma experiência de condução imersiva e envolvente. Os assentos esportivos abraçam o corpo, oferecendo suporte durante manobras agressivas, enquanto o volante revestido em couro transmite feedback preciso da estrada. Cada detalhe do interior, desde os materiais de alta qualidade até os controles intuitivos, reflete o compromisso da Porsche com o luxo e a funcionalidade.</h1>
         </div>
 
         </div>
@@ -83,7 +83,7 @@ export default function ContentCarreragt() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Além disso, a Porsche 911 GT3 RS ostenta uma aparência agressiva e distinta, com elementos aerodinâmicos proeminentes e detalhes exclusivos que não só contribuem para a sua performance, mas também a distinguem como uma obra-prima da engenharia automotiva.</h1>
+            <h1 class='data'>Com apenas um número limitado de unidades produzidas durante seu período de produção entre 2004 e 2007, o Porsche Carrera GT se tornou um verdadeiro tesouro para colecionadores e entusiastas de carros. Sua exclusividade e prestígio garantem que ele mantenha seu valor ao longo do tempo, tornando-o não apenas um supercarro incrível para dirigir, mas também um investimento sólido para aqueles que têm a sorte de possuir um.</h1>
         </div>
 
         </div>
@@ -103,7 +103,7 @@ export default function ContentCarreragt() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Em resumo, a Porsche 911 GT3 RS é a personificação da paixão da Porsche pela excelência técnica e pela emoção pura da condução esportiva. É uma máquina feita para desafiar limites e elevar os padrões do que um carro esportivo pode alcançar.</h1>
+            <h1 class='data'>Em resumo, a Porsche 911 GT3 RS é a personificação da paixão da Porsche pela excelência técnica e pela emoção pura da condução esportiva. É uma máquina feita para desafiar limites e elevar os padrões do que um carro esportivo pode alcançar.</h1>
         </div>
 
         </div>

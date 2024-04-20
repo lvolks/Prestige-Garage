@@ -39,7 +39,7 @@ export default function ContentVeyron() {
         </div>
 
         <div className='information'>
-            <h1 class='data' contenteditable="true">A Porsche 911 GT3 RS é uma máquina de alto desempenho que combina o legado lendário da marca com tecnologia de ponta e engenharia de precisão. Esta versão extrema da icônica série 911 é projetada para entregar uma experiência de condução visceral e emocionante, tanto nas ruas quanto nas pistas.</h1>
+            <h1 class='data'>O Bugatti Veyron é um marco na história automotiva, sendo um dos carros de produção em série mais icônicos já criados. Lançado em 2005, o Veyron foi um testemunho do compromisso da Bugatti em superar os limites da engenharia automotiva, estabelecendo novos padrões em desempenho, velocidade e luxo. Com sua combinação única de design impressionante, potência inigualável e artesanato meticuloso.</h1>
         </div>
 
         </div>
@@ -51,7 +51,7 @@ export default function ContentVeyron() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Sob o capô, a GT3 RS é impulsionada por um motor de seis cilindros opostos (boxer) naturalmente aspirado, capaz de gerar uma potência impressionante. O som desse motor é uma sinfonia para os entusiastas automotivos, enquanto sua potência oferece uma aceleração intensa e uma experiência de condução verdadeiramente emocionante.</h1>
+            <h1 class='data'>O Bugatti Veyron apresenta um design inovador e elegante que o torna instantaneamente reconhecível. Cada curva e detalhe do carro foi projetado para otimizar a aerodinâmica e a estética, resultando em uma presença imponente e distinta na estrada. Desde suas entradas de ar esculpidas até suas linhas fluidas, o Veyron personifica a harmonia entre forma e função, oferecendo uma experiência visual verdadeiramente única.</h1>
         </div>
 
         </div>
@@ -71,7 +71,7 @@ export default function ContentVeyron() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">A Porsche 911 GT3 RS não é apenas sobre potência bruta; também é afinada para oferecer um desempenho excepcional em curvas. Sua suspensão esportiva, direção precisa e aerodinâmica refinada trabalham em harmonia para garantir uma aderência excepcional e uma resposta rápida em qualquer tipo de curva.</h1>
+            <h1 class='data'>Equipado com um motor W16 quad-turbo de 8.0 litros, o Bugatti Veyron oferece um desempenho extraordinário que desafia a gravidade. Com mais de 1.000 cavalos de potência e um torque impressionante, o Veyron é capaz de acelerar de 0 a 100 km/h em menos de 2,5 segundos e atingir velocidades máximas que rivalizam com as de carros de corrida. Sua transmissão de dupla embreagem e sistema de tração nas quatro rodas garantem uma condução suave e precisa, mesmo em altas velocidades.</h1>
         </div>
 
         </div>
@@ -83,7 +83,7 @@ export default function ContentVeyron() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Além disso, a Porsche 911 GT3 RS ostenta uma aparência agressiva e distinta, com elementos aerodinâmicos proeminentes e detalhes exclusivos que não só contribuem para a sua performance, mas também a distinguem como uma obra-prima da engenharia automotiva.</h1>
+            <h1 class='data'>No interior, o Bugatti Veyron oferece um ambiente de luxo e conforto supremos, onde cada detalhe foi cuidadosamente considerado. Materiais de alta qualidade, como couro macio, madeira nobre e metal polido, são habilmente trabalhados para criar uma atmosfera de opulência e exclusividade. Recursos como sistemas de entretenimento de última geração e assentos ajustáveis garantem uma experiência de condução indulgente e inesquecível.</h1>
         </div>
 
         </div>
@@ -103,7 +103,7 @@ export default function ContentVeyron() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Em resumo, a Porsche 911 GT3 RS é a personificação da paixão da Porsche pela excelência técnica e pela emoção pura da condução esportiva. É uma máquina feita para desafiar limites e elevar os padrões do que um carro esportivo pode alcançar.</h1>
+            <h1 class='data'>O Bugatti Veyron deixou um legado duradouro na indústria automotiva, influenciando gerações de supercarros que se seguiram. Seu impacto vai além de simplesmente quebrar recordes de velocidade; o Veyron representou um avanço tecnológico e estilístico que continuará a ser admirado e estudado por muitos anos. Como uma das criações mais emblemáticas da Bugatti, o Veyron permanece como um símbolo de excelência, inovação e exclusividade no mundo dos automóveis de alto desempenho.</h1>
         </div>
 
         </div>

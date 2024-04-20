@@ -39,7 +39,7 @@ export default function ContentVeneno() {
         </div>
 
         <div className='information'>
-            <h1 class='data' contenteditable="true">A Porsche 911 GT3 RS é uma máquina de alto desempenho que combina o legado lendário da marca com tecnologia de ponta e engenharia de precisão. Esta versão extrema da icônica série 911 é projetada para entregar uma experiência de condução visceral e emocionante, tanto nas ruas quanto nas pistas.</h1>
+            <h1 class='data'>A Lamborghini Veneno é uma máquina exótica que encarna o espírito indomável da marca italiana. Equipada com um motor V12 aspirado de 6.5 litros, a Veneno produz uma potência impressionante de mais de 750 cavalos. Com um design agressivo e linhas angulares, este supercarro é uma visão futurista que não passa despercebida. Seu desempenho é tão exótico quanto sua aparência, capaz de atingir de 0 a 100 km/h em questão de segundos.</h1>
         </div>
 
         </div>
@@ -51,7 +51,7 @@ export default function ContentVeneno() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Sob o capô, a GT3 RS é impulsionada por um motor de seis cilindros opostos (boxer) naturalmente aspirado, capaz de gerar uma potência impressionante. O som desse motor é uma sinfonia para os entusiastas automotivos, enquanto sua potência oferece uma aceleração intensa e uma experiência de condução verdadeiramente emocionante.</h1>
+            <h1 class='data'>A Lamborghini Veneno apresenta um design que parece ter sido esculpido de um bloco de metal por um ser de outro planeta. Suas linhas afiadas e agressivas combinam perfeitamente com sua natureza de alto desempenho. Elementos como a asa traseira ajustável e as entradas de ar amplas não são apenas estéticos, mas também funcionais, contribuindo para a aerodinâmica do carro e proporcionando uma experiência de condução emocionante.</h1>
         </div>
 
         </div>
@@ -71,7 +71,7 @@ export default function ContentVeneno() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">A Porsche 911 GT3 RS não é apenas sobre potência bruta; também é afinada para oferecer um desempenho excepcional em curvas. Sua suspensão esportiva, direção precisa e aerodinâmica refinada trabalham em harmonia para garantir uma aderência excepcional e uma resposta rápida em qualquer tipo de curva.</h1>
+            <h1 class='data'>Por dentro, a Lamborghini Veneno oferece um ambiente que lembra o cockpit de uma nave espacial. Os materiais de alta qualidade, como fibra de carbono e Alcantara, criam uma atmosfera de luxo e esportividade. Os bancos concha fornecem um suporte excepcional durante as curvas mais agressivas, enquanto o painel de instrumentos digital fornece ao motorista todas as informações necessárias para dominar essa fera nas ruas ou na pista.</h1>
         </div>
 
         </div>
@@ -83,7 +83,7 @@ export default function ContentVeneno() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Além disso, a Porsche 911 GT3 RS ostenta uma aparência agressiva e distinta, com elementos aerodinâmicos proeminentes e detalhes exclusivos que não só contribuem para a sua performance, mas também a distinguem como uma obra-prima da engenharia automotiva.</h1>
+            <h1 class='data'>Como parte de uma série altamente limitada, a Lamborghini Veneno é mais do que apenas um carro; é uma obra de arte sobre rodas e um objeto de desejo para colecionadores e entusiastas de automóveis. Sua exclusividade e desempenho inigualável garantem que ela permaneça como uma das Lamborghinis mais cobiçadas já produzidas, mantendo seu valor ao longo do tempo e continuando a inspirar admiração por muitas gerações.</h1>
         </div>
 
         </div>
@@ -103,7 +103,7 @@ export default function ContentVeneno() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Em resumo, a Porsche 911 GT3 RS é a personificação da paixão da Porsche pela excelência técnica e pela emoção pura da condução esportiva. É uma máquina feita para desafiar limites e elevar os padrões do que um carro esportivo pode alcançar.</h1>
+            <h1 class='data'>A Lamborghini Veneno é muito mais do que um supercarro; é um monstro das estradas que desafia os limites do possível. Seu rugido do motor V12 ecoa pelas ruas, anunciando sua presença imponente e capturando a atenção de todos ao seu redor. Com um design e desempenho que desafiam a imaginação, a Veneno representa o pináculo do automobilismo de alta performance e continua a ser uma das mais lendárias e icônicas Lamborghinis já fabricadas.</h1>
         </div>
 
         </div>

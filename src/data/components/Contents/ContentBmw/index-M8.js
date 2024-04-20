@@ -39,7 +39,7 @@ export default function ContentM8() {
         </div>
 
         <div className='information'>
-            <h1 class='data' contenteditable="true">A Porsche 911 GT3 RS é uma máquina de alto desempenho que combina o legado lendário da marca com tecnologia de ponta e engenharia de precisão. Esta versão extrema da icônica série 911 é projetada para entregar uma experiência de condução visceral e emocionante, tanto nas ruas quanto nas pistas.</h1>
+            <h1 class='data'>O BMW M8 personifica a essência da performance M da BMW, combinando potência bruta, elegância e luxo em um pacote impressionante. Como o ápice da série BMW Série 8, o M8 é uma manifestação da engenharia de alto desempenho da BMW, oferecendo uma experiência de condução emocionante e indulgente. Com sua combinação de desempenho dinâmico, design imponente e tecnologia avançada, o M8 é um verdadeiro carro esportivo de elite.</h1>
         </div>
 
         </div>
@@ -51,7 +51,7 @@ export default function ContentM8() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Sob o capô, a GT3 RS é impulsionada por um motor de seis cilindros opostos (boxer) naturalmente aspirado, capaz de gerar uma potência impressionante. O som desse motor é uma sinfonia para os entusiastas automotivos, enquanto sua potência oferece uma aceleração intensa e uma experiência de condução verdadeiramente emocionante.</h1>
+            <h1 class='data'>O BMW M8 apresenta um design expressivo e agressivo que exala presença e sofisticação nas ruas. Com sua grade dianteira ampliada, entradas de ar proeminentes e linhas musculosas, o M8 transmite uma sensação de força e velocidade. Detalhes como o teto de fibra de carbono, saias laterais aprimoradas e o difusor traseiro aerodinâmico não apenas melhoram a estética, mas também contribuem para a eficiência aerodinâmica e estabilidade em altas velocidades.</h1>
         </div>
 
         </div>
@@ -71,7 +71,7 @@ export default function ContentM8() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">A Porsche 911 GT3 RS não é apenas sobre potência bruta; também é afinada para oferecer um desempenho excepcional em curvas. Sua suspensão esportiva, direção precisa e aerodinâmica refinada trabalham em harmonia para garantir uma aderência excepcional e uma resposta rápida em qualquer tipo de curva.</h1>
+            <h1 class='data'>Equipado com um motor V8 TwinPower Turbo de alto desempenho, o BMW M8 oferece uma potência excepcional que desafia os limites da adrenalina. Com mais de 600 cavalos de potência disponíveis, o M8 é capaz de acelerar de 0 a 100 km/h em menos de 3 segundos e atingir velocidades de topo impressionantes. Sua transmissão automática de oito velocidades e tração nas quatro rodas M xDrive garantem uma entrega de potência suave e controle excepcional em todas as condições de condução.</h1>
         </div>
 
         </div>
@@ -83,7 +83,7 @@ export default function ContentM8() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Além disso, a Porsche 911 GT3 RS ostenta uma aparência agressiva e distinta, com elementos aerodinâmicos proeminentes e detalhes exclusivos que não só contribuem para a sua performance, mas também a distinguem como uma obra-prima da engenharia automotiva.</h1>
+            <h1 class='data'>No interior, o BMW M8 oferece um ambiente luxuoso e confortável, onde cada detalhe foi cuidadosamente projetado para aprimorar a experiência de condução. Materiais de alta qualidade, como couro Merino, fibra de carbono e alumínio, são habilmente integrados para criar uma atmosfera de elegância e sofisticação. Recursos como o sistema de infoentretenimento BMW Live Cockpit Professional e os assentos esportivos M garantem uma experiência de condução indulgente e conectada.</h1>
         </div>
 
         </div>
@@ -103,7 +103,7 @@ export default function ContentM8() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data' contenteditable="true">Em resumo, a Porsche 911 GT3 RS é a personificação da paixão da Porsche pela excelência técnica e pela emoção pura da condução esportiva. É uma máquina feita para desafiar limites e elevar os padrões do que um carro esportivo pode alcançar.</h1>
+            <h1 class='data'>O BMW M8 é mais do que apenas um carro esportivo; é um tributo à rica tradição M da BMW e ao compromisso contínuo com a excelência automotiva. Como um dos modelos mais exclusivos e emocionantes da linha BMW, o M8 continua a cativar entusiastas e motoristas exigentes em todo o mundo. Sua presença nas ruas e nas pistas é um testemunho do legado duradouro da BMW como uma das marcas mais renomadas e respeitadas no mundo automotivo.</h1>
         </div>
 
         </div>

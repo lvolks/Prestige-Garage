@@ -19,16 +19,22 @@ footer{
 
 .copy{
     color: white;
-    font-family:'Times New Roman', Times, serif;
+    font-family:cursive;
     text-align: center;
     padding-left: 25px;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
 }
 
 .copy2{
   color: white;
-  font-family:'Times New Roman', Times, serif;
+  font-family:cursive;
   text-align: center;
   padding-right: 25px;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
 }
 
 .icon{

@@ -9,8 +9,8 @@ export default function Header() {
                 <Link class="hvr-grow hvr-float-shadow" to='/home'>
                 Início
                 </Link>
-                <Link class="hvr-grow hvr-float-shadow" to='/cars'>
-                Testing
+                <Link class="hvr-grow hvr-float-shadow" to='/dev'>
+                Desenvolvedor
                 </Link>
                 </ul>
 

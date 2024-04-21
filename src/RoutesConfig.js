@@ -74,7 +74,8 @@ import Jesko from "D:/Coding/React/prestige-garage/src/data/pages/cars/Koenigseg
 import Ccxr from "D:/Coding/React/prestige-garage/src/data/pages/cars/Koenigsegg/Variants/ccxr";
 
 import About from "D:/Coding/React/prestige-garage/src/data/pages/about";
-import Details from "D:/Coding/React/prestige-garage/src/data/pages/details";
+import Contact from "D:/Coding/React/prestige-garage/src/data/pages/contact";
+import Dev from "D:/Coding/React/prestige-garage/src/data/pages/dev";
 
 export default function RoutesConfig() {
   return (
@@ -82,6 +83,8 @@ export default function RoutesConfig() {
       <Route path="/" element={<Home />} />
       <Route path="/home" element={<Home />} />
       <Route path="/about" element={<About />} />
+      <Route path="/contact" element={<Contact />} />
+      <Route path="/dev" element={<Dev />} />
 
       <Route path="/ferrari" element={<Ferrari />} />
       <Route path="/ferrari/enzo" element={<Enzo />} />
@@ -155,7 +158,6 @@ export default function RoutesConfig() {
       <Route path="/bmw/320i" element={<I320 />} />
       <Route path="/bmw/i8" element={<I8 />} />
 
-      <Route path="/details" element={<Details />} />
       <Route path="*" element={<h1> 404 - Página Não Encontrada!</h1>} />
     </Routes>
   );

@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import icon1 from "../../../images/imagesAstonmartin/vulcan/icon.png"
 import icon2 from "../../../images/imagesAstonmartin/vantage/icon.png"
 import icon3 from "../../../images/imagesAstonmartin/valkyrie/icon.png"
-import icon4 from "../../../images/imagesAstonmartin/valour/icon.png"
+import icon4 from "../../../images/imagesAstonmartin/db11/icon.png"
 
 export default function Content() {
 

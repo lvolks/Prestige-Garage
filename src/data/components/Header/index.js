@@ -7,7 +7,7 @@ export default function Header() {
             <header>
                 <ul>
                 <Link class="hvr-grow hvr-float-shadow" to='/home'>
-                Home
+                Início
                 </Link>
                 <Link class="hvr-grow hvr-float-shadow" to='/cars'>
                 Testing
@@ -18,10 +18,10 @@ export default function Header() {
 
                 <ul>
                 <Link class="hvr-grow hvr-float-shadow" to='/about'>
-                About
+                Sobre
                 </Link>
                 <Link class="hvr-grow hvr-float-shadow" to='/contact'>
-                Contact
+                Contato
                 </Link>
                 </ul>
             </header>

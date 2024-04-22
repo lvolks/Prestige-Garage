@@ -25,15 +25,15 @@ export default function ContentR33() {
         <div className='kmhp'>
 
         <div>
-            <h1 className='description'>0-100km/h em 3,2s</h1>
+            <h1 className='description'>0-100km/h em 5,6s</h1>
         </div>
 
         <div>
-            <h1 className='description'>CV: 525cv</h1>
+            <h1 className='description'>CV: 276cv</h1>
         </div>
 
         <div>
-            <h1 className='description'>Velocidade máxima: 296km/h</h1>
+            <h1 className='description'>Velocidade máxima: 250km/h</h1>
         </div>
 
         </div>

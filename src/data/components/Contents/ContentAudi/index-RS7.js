@@ -25,15 +25,15 @@ export default function ContentRS7() {
         <div className='kmhp'>
 
         <div>
-            <h1 className='description'>0-100km/h em 2s</h1>
+            <h1 className='description'>0-100km/h em 3,6s</h1>
         </div>
 
         <div>
-            <h1 className='description'>CV: 504cv</h1>
+            <h1 className='description'>CV: 600cv</h1>
         </div>
 
         <div>
-            <h1 className='description'>Velocidade máxima: 296km/h</h1>
+            <h1 className='description'>Velocidade máxima: 250km/h</h1>
         </div>
 
         </div>

@@ -80,3 +80,19 @@ a{
     0 0 77px #fff,
     0 0 100px #fff;
 }
+
+@media screen and (max-width:1020px){
+    .companys{
+        flex-direction: column;
+    }
+    img{
+        width: 350px;
+        height: 200px;
+    }
+    .title{
+        flex-direction: column;
+        max-width: 100px;
+        font-size: 30px;
+        padding-left: 150px;
+    }
+  }

@@ -25,15 +25,15 @@ export default function ContentAgera() {
         <div className='kmhp'>
 
         <div>
-            <h1 className='description'>0-100km/h em 3,2s</h1>
+            <h1 className='description'>0-100km/h em 2,8s</h1>
         </div>
 
         <div>
-            <h1 className='description'>CV: 525cv</h1>
+            <h1 className='description'>CV: 1360cv</h1>
         </div>
 
         <div>
-            <h1 className='description'>Velocidade máxima: 296km/h</h1>
+            <h1 className='description'>Velocidade máxima: 447km/h</h1>
         </div>
 
         </div>

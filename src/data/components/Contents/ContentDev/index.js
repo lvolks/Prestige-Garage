@@ -18,6 +18,9 @@ export default function ContentDev(){
                     <h1>
                     Sinta-se a vontade para explorar toda o projeto, em caso de necessidade de contato, pode falar comigo através das minhas redes localizadas no Rodapé e na seção "Contato".
                     </h1>
+                    <h1>
+                    OBS: A página NÃO foi feita em layout responsivo. Prentedo implementar isso em breve.
+                    </h1>
                 </div>
 
                 <div className="logoMe">

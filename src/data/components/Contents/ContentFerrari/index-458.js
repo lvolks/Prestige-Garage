@@ -25,15 +25,15 @@ export default function ContentPista458() {
         <div className='kmhp'>
 
         <div>
-            <h1 className='description'>0-100km/h em 3,2s</h1>
+            <h1 className='description'>0-100km/h em 3,4s</h1>
         </div>
 
         <div>
-            <h1 className='description'>CV: 525cv</h1>
+            <h1 className='description'>CV: 570cv</h1>
         </div>
 
         <div>
-            <h1 className='description'>Velocidade máxima: 296km/h</h1>
+            <h1 className='description'>Velocidade máxima: 325km/h</h1>
         </div>
 
         </div>
@@ -103,7 +103,7 @@ export default function ContentPista458() {
         <div className='init'>
 
         <div className='information-second'>
-            <h1 class='data'>A Ferrari 458 Italia deixou um legado duradouro na história dos supercarros, sendo lembrada como uma das criações mais impressionantes da marca italiana. Seu design atemporal, desempenho excepcional e qualidade artesanal garantem que ela permaneça como um objeto de desejo para colecionadores e entusiastas de automóveis em todo o mundo. Com seu status de ícone automotivo, a 458 Italia continua a inspirar admiração e respeito, representando o auge da excelência italiana na indústria automobilística.</h1>
+            <h1 class='data'>A Ferrari 458 Italia deixou um legado duradouro na história dos supercarros, sendo lembrada como uma das criações mais impressionantes da marca italiana. Seu design atemporal, desempenho excepcional e qualidade artesanal garantem que ela permaneça como um objeto de desejo para colecionadores e entusiastas de automóveis em todo o mundo.</h1>
         </div>
 
         </div>

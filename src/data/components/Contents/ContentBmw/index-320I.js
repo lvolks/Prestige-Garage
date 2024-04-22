@@ -26,15 +26,15 @@ export default function ContentI320() {
         <div className='kmhp'>
 
         <div>
-            <h1 className='description'>0-100km/h em 3,2s</h1>
+            <h1 className='description'>0-100km/h em 7,1s</h1>
         </div>
 
         <div>
-            <h1 className='description'>CV: 525cv</h1>
+            <h1 className='description'>CV: 184cv</h1>
         </div>
 
         <div>
-            <h1 className='description'>Velocidade máxima: 296km/h</h1>
+            <h1 className='description'>Velocidade máxima: 240km/h</h1>
         </div>
 
         </div>

@@ -25,15 +25,15 @@ export default function ContentZ4() {
         <div className='kmhp'>
 
         <div>
-            <h1 className='description'>0-100km/h em 3,2s</h1>
+            <h1 className='description'>0-100km/h em 6,8s</h1>
         </div>
 
         <div>
-            <h1 className='description'>CV: 525cv</h1>
+            <h1 className='description'>CV: 382cv</h1>
         </div>
 
         <div>
-            <h1 className='description'>Velocidade máxima: 296km/h</h1>
+            <h1 className='description'>Velocidade máxima: 241km/h</h1>
         </div>
 
         </div>

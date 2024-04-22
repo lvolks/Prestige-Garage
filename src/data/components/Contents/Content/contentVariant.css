@@ -22,9 +22,9 @@
     font-size: 45px;
     text-shadow: 
     0 0 7px #fff;
-    -webkit-user-select: none; /* Safari */
-    -ms-user-select: none; /* IE 10 and IE 11 */
-    user-select: none; /* Standard syntax */
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
 }
 
 .information{
@@ -41,7 +41,7 @@
     user-select: none;
 }
 
-.information-second{
+.information-second, .information-third, .information-four, .information-five{
     color: white;
     font-family: cursive;
     margin-left: 55px;
@@ -74,4 +74,57 @@
 
 .information{
     display: flexbox;
+}
+
+@media screen and (max-width:1020px){
+
+    .section{
+        flex-direction: column;
+    }
+    .image{
+        width: 350px;
+        height: 200px;
+        margin-right: 40px;
+        margin-top: 30px;
+    }
+
+    .ev{
+        margin-left: 0;
+    }
+    .carIMG{
+        margin-left: 22px;
+    }
+    .description{
+        font-size: 30px;
+        width: 350px;
+    }
+    .kmhp{
+        flex-direction: column;
+    }
+    .section{
+        flex-direction: column;
+    }
+
+    .description{
+        padding-left: 22px;
+    }
+
+    .information{
+        margin-left: 22px;
+        width: 350px;
+        height: auto;
+        font-size: 15px;
+        margin-bottom: 0px;
+    }
+
+    .information-second{
+        margin-left: 22px;
+        height: auto;
+        font-size: 15px;
+        width: 350px;
+    }
+
+    .title{
+        text-align: center;
+    }
 }

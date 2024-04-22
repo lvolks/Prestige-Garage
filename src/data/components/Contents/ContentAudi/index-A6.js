@@ -25,15 +25,15 @@ export default function ContentA6() {
         <div className='kmhp'>
 
         <div>
-            <h1 className='description'>0-100km/h em 2s</h1>
+            <h1 className='description'>0-100km/h em 6,7s</h1>
         </div>
 
         <div>
-            <h1 className='description'>CV: 504cv</h1>
+            <h1 className='description'>CV: 252cv</h1>
         </div>
 
         <div>
-            <h1 className='description'>Velocidade máxima: 296km/h</h1>
+            <h1 className='description'>Velocidade máxima: 243km/h</h1>
         </div>
 
         </div>

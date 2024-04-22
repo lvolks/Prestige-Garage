@@ -1,5 +1,6 @@
 import "./header.css";
 import { Link } from 'react-router-dom';
+import close from "../../images/icon-close.png"
 
 export default function Header() {
     return (
@@ -13,9 +14,7 @@ export default function Header() {
                 Desenvolvedor
                 </Link>
                 </ul>
-
                 <a className="logo" href="home">PRESTIGE GARAGE</a>
-
                 <ul>
                 <Link class="hvr-grow hvr-float-shadow" to='/about'>
                 Sobre
@@ -23,7 +22,7 @@ export default function Header() {
                 <Link class="hvr-grow hvr-float-shadow" to='/contact'>
                 Contato
                 </Link>
-                </ul>
+                </ul>                
             </header>
         </div>
     )

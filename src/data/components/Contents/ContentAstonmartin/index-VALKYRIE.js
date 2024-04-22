@@ -25,15 +25,15 @@ export default function ContentValkyrie() {
         <div className='kmhp'>
 
         <div>
-            <h1 className='description'>0-100km/h em 2s</h1>
+            <h1 className='description'>0-100km/h em 2.3s</h1>
         </div>
 
         <div>
-            <h1 className='description'>CV: 504cv</h1>
+            <h1 className='description'>CV: 1.158cv</h1>
         </div>
 
         <div>
-            <h1 className='description'>Velocidade máxima: 296km/h</h1>
+            <h1 className='description'>Velocidade máxima: 352km/h</h1>
         </div>
 
         </div>

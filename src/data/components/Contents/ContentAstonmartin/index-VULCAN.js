@@ -25,15 +25,15 @@ export default function ContentVulcan() {
         <div className='kmhp'>
 
         <div>
-            <h1 className='description'>0-100km/h em 2s</h1>
+            <h1 className='description'>0-100km/h em 2,9s</h1>
         </div>
 
         <div>
-            <h1 className='description'>CV: 504cv</h1>
+            <h1 className='description'>CV: 800cv</h1>
         </div>
 
         <div>
-            <h1 className='description'>Velocidade máxima: 296km/h</h1>
+            <h1 className='description'>Velocidade máxima: 325km/h</h1>
         </div>
 
         </div>
